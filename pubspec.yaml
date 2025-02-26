@@ -1,0 +1,35 @@
+name: flashcard_app
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/data/Kanji/n5.json
+    - lib/data/Kanji/n4.json
+    - lib/data/Kanji/n3.json
+    - lib/data/vocab_data.json
+    - lib/data/Genki1/chapter_7.json
+    - lib/data/Genki1/chapter_8.json
+    - lib/data/Genki1/chapter_9.json
+    - lib/data/Genki1/chapter_10.json
+    - lib/data/Genki1/chapter_11.json
+    - lib/data/Genki1/chapter_12.json

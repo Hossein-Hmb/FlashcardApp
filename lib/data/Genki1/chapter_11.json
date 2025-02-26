@@ -1,0 +1,188 @@
+[
+  {
+    "vocab": "外国",
+    "reading": "がいこく",
+    "meaning": "foreign country"
+  },
+  {
+    "vocab": "オーストラリア",
+    "reading": "オーストラリア",
+    "meaning": "Australia"
+  },
+  { "vocab": "川", "reading": "かわ", "meaning": "river" },
+  {
+    "vocab": "温泉",
+    "reading": "おんせん",
+    "meaning": "spa; hot spring"
+  },
+  { "vocab": "つり", "reading": "つり", "meaning": "fishing" },
+  { "vocab": "湖", "reading": "みずうみ", "meaning": "lake" },
+  { "vocab": "やま", "reading": "やま", "meaning": "mountain" },
+  { "vocab": "キャンプ", "reading": "キャンプ", "meaning": "camp" },
+  { "vocab": "ドライブ", "reading": "ドライブ", "meaning": "drive" },
+  { "vocab": "神社", "reading": "じんじゃ", "meaning": "shrine" },
+  {
+    "vocab": "美術館",
+    "reading": "びじゅつかん",
+    "meaning": "art museum"
+  },
+  {
+    "vocab": "社長",
+    "reading": "しゃちょう",
+    "meaning": "president of a company"
+  },
+  { "vocab": "歌手", "reading": "かしゅ", "meaning": "singer" },
+  {
+    "vocab": "ルームメイト",
+    "reading": "ルームメイト",
+    "meaning": "roommate"
+  },
+  {
+    "vocab": "ホストファミリー",
+    "reading": "ホストファミリー",
+    "meaning": "host family"
+  },
+  { "vocab": "将来", "reading": "しょうらい", "meaning": "future" },
+  { "vocab": "夢", "reading": "ゆめ", "meaning": "dream" },
+  { "vocab": "お祭り", "reading": "おまつり", "meaning": "festival" },
+  {
+    "vocab": "お正月",
+    "reading": "おしょうがつ",
+    "meaning": "New Year’s"
+  },
+  { "vocab": "お菓子", "reading": "おかし", "meaning": "snack; sweets" },
+  { "vocab": "ビール", "reading": "ビール", "meaning": "beer" },
+  { "vocab": "おもちゃ", "reading": "おもちゃ", "meaning": "toy" },
+  {
+    "vocab": "今学期",
+    "reading": "こんがっき",
+    "meaning": "this semester"
+  },
+  {
+    "vocab": "来学期",
+    "reading": "らいがっき",
+    "meaning": "next semester"
+  },
+  { "vocab": "授業", "reading": "じゅぎょう", "meaning": "class" },
+  {
+    "vocab": "こちら",
+    "reading": "こちら",
+    "meaning": "this person (polite)"
+  },
+  {
+    "vocab": "うそをつく",
+    "reading": "うそをつく",
+    "meaning": "to tell a lie"
+  },
+  {
+    "vocab": "おなかがすく",
+    "reading": "おなかがすく",
+    "meaning": "to become hungry"
+  },
+  { "vocab": "飼う", "reading": "かう", "meaning": "to own (a pet)" },
+  {
+    "vocab": "サボる",
+    "reading": "サボる",
+    "meaning": "to cut (classes)"
+  },
+  {
+    "vocab": "取る",
+    "reading": "とる",
+    "meaning": "to take (a class); to get (a grade)"
+  },
+  { "vocab": "習う", "reading": "ならう", "meaning": "to learn" },
+  { "vocab": "登る", "reading": "のぼる", "meaning": "to climb (place)" },
+  { "vocab": "走る", "reading": "はしる", "meaning": "to run" },
+  { "vocab": "疲れる", "reading": "つかれる", "meaning": "to get tired" },
+  { "vocab": "やめる", "reading": "やめる", "meaning": "to quit" },
+  {
+    "vocab": "けんかする",
+    "reading": "けんかする",
+    "meaning": "to have a fight; to quarrel"
+  },
+  {
+    "vocab": "紹介する",
+    "reading": "しょうかいする",
+    "meaning": "to introduce"
+  },
+  {
+    "vocab": "ダイエットする",
+    "reading": "ダイエットする",
+    "meaning": "to go on a diet"
+  },
+  {
+    "vocab": "遅刻する",
+    "reading": "ちこくする",
+    "meaning": "to be late"
+  },
+  {
+    "vocab": "留学する",
+    "reading": "りゅうがくする",
+    "meaning": "to study abroad"
+  },
+  {
+    "vocab": "出身",
+    "reading": "しゅっしん",
+    "meaning": "coming from (place)"
+  },
+  {
+    "vocab": "久しぶり",
+    "reading": "ひさしぶり",
+    "meaning": "it has been a long time"
+  },
+  {
+    "vocab": "まあまあ",
+    "reading": "まあまあ",
+    "meaning": "okay; so-so"
+  },
+  { "vocab": "もっと", "reading": "もっと", "meaning": "more" },
+  { "vocab": "後", "reading": "あと", "meaning": "after (an event)" },
+  { "vocab": "そして", "reading": "そして", "meaning": "and then" },
+  {
+    "vocab": "〜だけ",
+    "reading": "〜だけ",
+    "meaning": "just...; only..."
+  },
+  { "vocab": "〜点", "reading": "〜てん", "meaning": "... points" },
+  { "vocab": "作家", "reading": "さっか", "meaning": "writer" },
+  {
+    "vocab": "ジャーナリスト",
+    "reading": "ジャーナリスト",
+    "meaning": "journalist"
+  },
+  {
+    "vocab": "警察官",
+    "reading": "けいさつかん",
+    "meaning": "police officer"
+  },
+  {
+    "vocab": "消防士",
+    "reading": "しょうぼうし",
+    "meaning": "firefighter"
+  },
+  { "vocab": "教師", "reading": "きょうし", "meaning": "schoolteacher" },
+  {
+    "vocab": "研究者",
+    "reading": "けんきゅうしゃ",
+    "meaning": "researcher"
+  },
+  {
+    "vocab": "宇宙飛行士",
+    "reading": "うちゅうひこうし",
+    "meaning": "astronaut"
+  },
+  {
+    "vocab": "スポーツせんしゅ",
+    "reading": "スポーツせんしゅ",
+    "meaning": "athlete"
+  },
+  {
+    "vocab": "大統領",
+    "reading": "だいとうりょう",
+    "meaning": "president of a country"
+  },
+  { "vocab": "俳優", "reading": "はいゆう", "meaning": "actor; actress" },
+  { "vocab": "看護師", "reading": "かんごし", "meaning": "nurse" },
+  { "vocab": "シェフ", "reading": "シェフ", "meaning": "chef" },
+  { "vocab": "漫画家", "reading": "まんがか", "meaning": "cartoonist" }
+]

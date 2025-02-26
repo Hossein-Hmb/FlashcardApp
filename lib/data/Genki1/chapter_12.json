@@ -1,0 +1,151 @@
+[
+  { "vocab": "おなか", "reading": "おなか", "meaning": "stomach" },
+  { "vocab": "足", "reading": "あし", "meaning": "leg; foot" },
+  { "vocab": "のど", "reading": "のど", "meaning": "throat" },
+  { "vocab": "歯", "reading": "は", "meaning": "tooth" },
+  {
+    "vocab": "インフルエンザ",
+    "reading": "インフルエンザ",
+    "meaning": "influenza"
+  },
+  { "vocab": "風邪", "reading": "かぜ", "meaning": "cold" },
+  { "vocab": "せき", "reading": "せき", "meaning": "cough" },
+  { "vocab": "二日酔い", "reading": "ふっかよい", "meaning": "hangover" },
+  {
+    "vocab": "ホームシック",
+    "reading": "ホームシック",
+    "meaning": "homesickness"
+  },
+  {
+    "vocab": "アレルギー",
+    "reading": "アレルギー",
+    "meaning": "allergy"
+  },
+  { "vocab": "ジュース", "reading": "ジュース", "meaning": "juice" },
+  { "vocab": "卵", "reading": "たまご", "meaning": "egg" },
+  { "vocab": "服", "reading": "ふく", "meaning": "clothes" },
+  {
+    "vocab": "物",
+    "reading": "もの",
+    "meaning": "thing (concrete object)"
+  },
+  {
+    "vocab": "プレゼント",
+    "reading": "プレゼント",
+    "meaning": "present"
+  },
+  { "vocab": "切符", "reading": "きっぷ", "meaning": "train ticket" },
+  { "vocab": "〜だい", "reading": "〜だい", "meaning": "charge; fee" },
+  {
+    "vocab": "用事",
+    "reading": "ようじ",
+    "meaning": "business to take care of"
+  },
+  { "vocab": "お手洗い", "reading": "おてあらい", "meaning": "restroom" },
+  { "vocab": "試合", "reading": "しあい", "meaning": "match; game" },
+  { "vocab": "政治", "reading": "せいじ", "meaning": "politics" },
+  {
+    "vocab": "成績",
+    "reading": "せいせき",
+    "meaning": "grade (on a test, etc.)"
+  },
+  {
+    "vocab": "彼女",
+    "reading": "かのじょ",
+    "meaning": "she; girlfriend"
+  },
+  { "vocab": "彼", "reading": "かれ", "meaning": "he; boyfriend" },
+  { "vocab": "彼氏", "reading": "かれし", "meaning": "boyfriend" },
+  { "vocab": "意味", "reading": "いみ", "meaning": "meaning" },
+  {
+    "vocab": "狭い",
+    "reading": "せまい",
+    "meaning": "narrow; not spacious"
+  },
+  { "vocab": "広い", "reading": "ひろい", "meaning": "wide; spacious" },
+  { "vocab": "悪い", "reading": "わるい", "meaning": "bad" },
+  { "vocab": "痛い", "reading": "いたい", "meaning": "hurt; painful" },
+  { "vocab": "甘い", "reading": "あまい", "meaning": "sweet" },
+  {
+    "vocab": "多い",
+    "reading": "おおい",
+    "meaning": "there are many..."
+  },
+  { "vocab": "素敵", "reading": "すてき", "meaning": "nice" },
+  { "vocab": "歩く", "reading": "あるく", "meaning": "to walk" },
+  {
+    "vocab": "風邪をひく",
+    "reading": "かぜをひく",
+    "meaning": "to catch a cold"
+  },
+  {
+    "vocab": "熱がある",
+    "reading": "ねつがある",
+    "meaning": "to have a fever"
+  },
+  {
+    "vocab": "のどが渇く",
+    "reading": "のどがかわく",
+    "meaning": "to become thirsty"
+  },
+  { "vocab": "払う", "reading": "はらう", "meaning": "to pay" },
+  { "vocab": "なくす", "reading": "なくす", "meaning": "to lose" },
+  {
+    "vocab": "興味がある",
+    "reading": "きょうみがある",
+    "meaning": "to be interested in..."
+  },
+  {
+    "vocab": "せきが出る",
+    "reading": "せきがでる",
+    "meaning": "to cough"
+  },
+  {
+    "vocab": "別れる",
+    "reading": "わかれる",
+    "meaning": "to break up; to separate"
+  },
+  {
+    "vocab": "緊張する",
+    "reading": "きんちょうする",
+    "meaning": "to get nervous"
+  },
+  {
+    "vocab": "心配する",
+    "reading": "しんぱいする",
+    "meaning": "to worry"
+  },
+  {
+    "vocab": "お大事に",
+    "reading": "おだいじに",
+    "meaning": "Get well soon"
+  },
+  {
+    "vocab": "元気がない",
+    "reading": "げんきがない",
+    "meaning": "don't look well"
+  },
+  {
+    "vocab": "できるだけ",
+    "reading": "できるだけ",
+    "meaning": "as much as possible"
+  },
+  { "vocab": "多分", "reading": "たぶん", "meaning": "probably; maybe" },
+  {
+    "vocab": "もうすぐ",
+    "reading": "もうすぐ",
+    "meaning": "very soon; in a few moments/days"
+  },
+  {
+    "vocab": "初めて",
+    "reading": "はじめて",
+    "meaning": "for the first time"
+  },
+  {
+    "vocab": "二三日",
+    "reading": "にさんにち",
+    "meaning": "for two to three days"
+  },
+  { "vocab": "それに", "reading": "それに", "meaning": "moreover, ..." },
+  { "vocab": "同じ", "reading": "おなじ", "meaning": "same" }
+]

@@ -1,0 +1,154 @@
+[
+  { "vocab": "晴れ", "reading": "はれ", "meaning": "sunny weather" },
+  { "vocab": "雨", "reading": "あめ", "meaning": "rain" },
+  { "vocab": "曇り", "reading": "くもり", "meaning": "cloudy weather" },
+  { "vocab": "雪", "reading": "ゆき", "meaning": "snow" },
+  {
+    "vocab": "天気予報",
+    "reading": "てんきよほう",
+    "meaning": "weather forecast"
+  },
+  { "vocab": "気温", "reading": "きおん", "meaning": "temperature" },
+  { "vocab": "夏", "reading": "なつ", "meaning": "summer" },
+  { "vocab": "冬", "reading": "ふゆ", "meaning": "winter" },
+  { "vocab": "今朝", "reading": "けさ", "meaning": "this morning" },
+  {
+    "vocab": "明後日",
+    "reading": "あさって",
+    "meaning": "the day after tomorrow"
+  },
+  { "vocab": "毎週", "reading": "まいしゅう", "meaning": "every week" },
+  { "vocab": "今月", "reading": "こんげつ", "meaning": "this month" },
+  { "vocab": "来月", "reading": "らいげつ", "meaning": "next month" },
+  {
+    "vocab": "会社員",
+    "reading": "かいしゃいん",
+    "meaning": "office worker"
+  },
+  {
+    "vocab": "仕事",
+    "reading": "しごと",
+    "meaning": "job; work; occupation"
+  },
+  { "vocab": "カメラ", "reading": "カメラ", "meaning": "camera" },
+  { "vocab": "カラオケ", "reading": "カラオケ", "meaning": "karaoke" },
+  { "vocab": "所", "reading": "ところ", "meaning": "place" },
+  { "vocab": "トマト", "reading": "トマト", "meaning": "tomato" },
+  { "vocab": "箸", "reading": "はし", "meaning": "chopsticks" },
+  { "vocab": "パーティー", "reading": "パーティー", "meaning": "party" },
+  {
+    "vocab": "バーベキュー",
+    "reading": "バーベキュー",
+    "meaning": "barbecue"
+  },
+  {
+    "vocab": "ホームステイ",
+    "reading": "ホームステイ",
+    "meaning": "homestay; living with a local family"
+  },
+  { "vocab": "お風呂", "reading": "おふろ", "meaning": "bath" },
+  { "vocab": "スペイン", "reading": "スペイン", "meaning": "Spain" },
+  { "vocab": "何か", "reading": "なにか", "meaning": "something" },
+  {
+    "vocab": "上手",
+    "reading": "じょうず",
+    "meaning": "skillful; good at ... (~が)"
+  },
+  {
+    "vocab": "下手",
+    "reading": "へた",
+    "meaning": "clumsy; poor at ... (~が)"
+  },
+  { "vocab": "有名", "reading": "ゆうめい", "meaning": "famous" },
+  { "vocab": "洗う", "reading": "あらう", "meaning": "to wash (~を)" },
+  { "vocab": "言う", "reading": "いう", "meaning": "to say" },
+  { "vocab": "いる", "reading": "いる", "meaning": "to need (~が)" },
+  {
+    "vocab": "遅くなる",
+    "reading": "おそくなる",
+    "meaning": "to be late"
+  },
+  {
+    "vocab": "お風呂に入る",
+    "reading": "おふろにはいる",
+    "meaning": "to take a bath"
+  },
+  { "vocab": "思う", "reading": "おもう", "meaning": "to think" },
+  { "vocab": "切る", "reading": "きる", "meaning": "to cut (~を)" },
+  { "vocab": "作る", "reading": "つくる", "meaning": "to make (~を)" },
+  { "vocab": "降る", "reading": "ふる", "meaning": "(rain/snow) falls" },
+  {
+    "vocab": "持っていく",
+    "reading": "もっていく",
+    "meaning": "to take (a thing) (~を)"
+  },
+  {
+    "vocab": "捨てる",
+    "reading": "すてる",
+    "meaning": "to throw away (~を)"
+  },
+  {
+    "vocab": "始める",
+    "reading": "はじめる",
+    "meaning": "to begin (~を)"
+  },
+  {
+    "vocab": "運転する",
+    "reading": "うんてんする",
+    "meaning": "to drive (~を)"
+  },
+  {
+    "vocab": "洗濯する",
+    "reading": "せんたくする",
+    "meaning": "to do laundry (~を)"
+  },
+  {
+    "vocab": "掃除する",
+    "reading": "そうじする",
+    "meaning": "to clean (~を)"
+  },
+  {
+    "vocab": "料理する",
+    "reading": "りょうりする",
+    "meaning": "to cook"
+  },
+  { "vocab": "うん", "reading": "うん", "meaning": "uh-huh; yes" },
+  { "vocab": "ううん", "reading": "ううん", "meaning": "uh-uh; no" },
+  { "vocab": "いつも", "reading": "いつも", "meaning": "always" },
+  {
+    "vocab": "遅く",
+    "reading": "おそく",
+    "meaning": "(do something) late"
+  },
+  {
+    "vocab": "乾杯",
+    "reading": "かんぱい",
+    "meaning": "Cheers! (a toast)"
+  },
+  {
+    "vocab": "みんなで",
+    "reading": "みんなで",
+    "meaning": "all (of the people) together"
+  },
+  {
+    "vocab": "残念(ですね)",
+    "reading": "ざんねん(ですね)",
+    "meaning": "That's too bad."
+  },
+  {
+    "vocab": "まだ+ negative",
+    "reading": "まだ+ negative",
+    "meaning": "not ... yet"
+  },
+  {
+    "vocab": "〜について",
+    "reading": "〜について",
+    "meaning": "about ...; concerning ..."
+  },
+  {
+    "vocab": "〜度",
+    "reading": "〜ど",
+    "meaning": "... degrees (temperature)"
+  },
+  { "vocab": "どう", "reading": "どう", "meaning": "how" }
+]

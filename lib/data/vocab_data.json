@@ -1,0 +1,521 @@
+[
+  {
+    "vocab": "猫",
+    "reading": "ねこ",
+    "meaning": "cat",
+    "examples": ["猫が好きです。", "この猫は白いです。"]
+  },
+  {
+    "vocab": "犬",
+    "reading": "いぬ",
+    "meaning": "dog",
+    "examples": ["犬は友達です。", "犬を散歩させます。"]
+  },
+  {
+    "vocab": "本",
+    "reading": "ほん",
+    "meaning": "book",
+    "examples": ["この本は面白いです。", "本をたくさん読みます。"]
+  },
+  {
+    "vocab": "社会",
+    "reading": "しゃかい",
+    "meaning": "society",
+    "examples": ["社会は変化しています。", "彼は社会の一員です。"]
+  },
+  {
+    "vocab": "会場",
+    "reading": "かいじょう",
+    "meaning": "venue",
+    "examples": ["会場はどこですか？", "イベントの会場は大きかった。"]
+  },
+  {
+    "vocab": "大勢",
+    "reading": "おおぜい",
+    "meaning": "crowd, many people",
+    "examples": ["大勢の人が集まりました。", "彼は大勢の前で話しました。"]
+  },
+  {
+    "vocab": "共通",
+    "reading": "きょうつう",
+    "meaning": "common",
+    "examples": ["私たちは共通の趣味があります。", "この問題は共通しています。"]
+  },
+  {
+    "vocab": "観客",
+    "reading": "かんきゃく",
+    "meaning": "audience",
+    "examples": ["観客は試合を楽しんでいます。", "劇場は観客でいっぱいでした。"]
+  },
+  {
+    "vocab": "払う",
+    "reading": "はらう",
+    "meaning": "to pay",
+    "examples": ["彼は現金で払いました。", "お金を払うのを忘れないでください。"]
+  },
+  {
+    "vocab": "到着",
+    "reading": "とうちゃく",
+    "meaning": "arrival",
+    "examples": ["到着時間は何時ですか？", "列車は時間通りに到着しました。"]
+  },
+  {
+    "vocab": "説明",
+    "reading": "せつめい",
+    "meaning": "explanation",
+    "examples": ["先生は説明が上手です。", "彼女は説明を聞いて納得しました。"]
+  },
+  {
+    "vocab": "加える",
+    "reading": "くわえる",
+    "meaning": "to add",
+    "examples": ["スープに塩を加えます。", "彼は新しいメンバーを加えました。"]
+  },
+  {
+    "vocab": "訓練",
+    "reading": "くんれん",
+    "meaning": "training",
+    "examples": [
+      "彼らは毎日訓練をしています。",
+      "訓練を通じてスキルを向上させます。"
+    ]
+  },
+  {
+    "vocab": "豆",
+    "reading": "まめ",
+    "meaning": "bean",
+    "examples": ["豆を炒めました。", "このスープには豆がたくさん入っています。"]
+  },
+  {
+    "vocab": "使う",
+    "reading": "つかう",
+    "meaning": "to use",
+    "examples": ["この道具を使ってください。", "パソコンをよく使います。"]
+  },
+  {
+    "vocab": "税金",
+    "reading": "ぜいきん",
+    "meaning": "tax",
+    "examples": ["税金を払う必要があります。", "新しい税金が導入されました。"]
+  },
+  {
+    "vocab": "軽く",
+    "reading": "かるく",
+    "meaning": "lightly",
+    "examples": ["パンを軽く焼きました。", "軽く掃除しました。"]
+  },
+  {
+    "vocab": "急く",
+    "reading": "せく",
+    "meaning": "to hurry",
+    "examples": ["彼は急いで家を出ました。", "時間がないので急いてください。"]
+  },
+  {
+    "vocab": "速く",
+    "reading": "はやく",
+    "meaning": "quickly",
+    "examples": ["もっと速く走ってください。", "彼は速く答えを見つけました。"]
+  },
+  {
+    "vocab": "進く",
+    "reading": "すすむ",
+    "meaning": "to advance",
+    "examples": ["彼は前に進んでいます。", "計画は順調に進いています。"]
+  },
+  {
+    "vocab": "満続",
+    "reading": "まんぞく",
+    "meaning": "satisfaction",
+    "examples": ["彼は結果に満続しています。", "この仕事に満続しています。"]
+  },
+  {
+    "vocab": "万続",
+    "reading": "ばんぞく",
+    "meaning": "eternal continuation",
+    "examples": ["平和が万続することを願います。", "愛が万続しますように。"]
+  },
+  {
+    "vocab": "満足",
+    "reading": "まんぞく",
+    "meaning": "satisfaction",
+    "examples": [
+      "私はこの結果に満足しています。",
+      "彼女は満足げな表情をしています。"
+    ]
+  },
+  {
+    "vocab": "万足",
+    "reading": "ばんそく",
+    "meaning": "eternal fulfillment",
+    "examples": ["万足の人生を送りたいです。", "この状況が万足に達しました。"]
+  },
+  {
+    "vocab": "生活",
+    "reading": "せいかつ",
+    "meaning": "life, livelihood",
+    "examples": ["彼の生活は忙しいです。", "都会での生活は大変です。"]
+  },
+  {
+    "vocab": "盛ぐ",
+    "reading": "もりぐ",
+    "meaning": "to flourish",
+    "examples": ["この地域は農業が盛ぐ。", "観光産業が盛ぐしている。"]
+  },
+  {
+    "vocab": "農業",
+    "reading": "のうぎょう",
+    "meaning": "agriculture",
+    "examples": ["農業はこの村の主な産業です。", "彼は農業を研究しています。"]
+  },
+  {
+    "vocab": "作物",
+    "reading": "さくもつ",
+    "meaning": "crops",
+    "examples": [
+      "この地域では様々な作物が栽培されています。",
+      "作物の収穫が始まりました。"
+    ]
+  },
+  {
+    "vocab": "資源",
+    "reading": "しげん",
+    "meaning": "resources",
+    "examples": [
+      "自然資源を大切にしましょう。",
+      "この国は多くの資源を輸出しています。"
+    ]
+  },
+  {
+    "vocab": "自然",
+    "reading": "しぜん",
+    "meaning": "nature",
+    "examples": ["自然を守る活動をしています。", "山の中で自然を感じました。"]
+  },
+  {
+    "vocab": "裏側",
+    "reading": "うらがわ",
+    "meaning": "backside",
+    "examples": [
+      "紙の裏側に書いてください。",
+      "建物の裏側には駐車場があります。"
+    ]
+  },
+  {
+    "vocab": "内緒",
+    "reading": "ないしょ",
+    "meaning": "secret",
+    "examples": [
+      "これは内緒にしてください。",
+      "彼女に内緒でサプライズを用意しました。"
+    ]
+  },
+  {
+    "vocab": "後方",
+    "reading": "こうほう",
+    "meaning": "rear, back",
+    "examples": ["後方に注意してください。", "彼は車の後方に立っています。"]
+  },
+  {
+    "vocab": "中身",
+    "reading": "なかみ",
+    "meaning": "contents",
+    "examples": ["この箱の中身は何ですか？", "中身を確認してください。"]
+  },
+  {
+    "vocab": "表面",
+    "reading": "ひょうめん",
+    "meaning": "surface",
+    "examples": ["この机の表面は滑らかです。", "表面の汚れを拭き取ります。"]
+  },
+  {
+    "vocab": "かがやいて",
+    "reading": "かがやいて",
+    "meaning": "shining, sparkling",
+    "examples": [
+      "夜空に星がかがやいています。",
+      "彼女の笑顔がかがやいています。"
+    ]
+  },
+  {
+    "vocab": "止まって",
+    "reading": "とまって",
+    "meaning": "stopping",
+    "examples": ["車が信号で止まっています。", "時計が止まってしまいました。"]
+  },
+  {
+    "vocab": "揺れて",
+    "reading": "ゆれて",
+    "meaning": "shaking, swaying",
+    "examples": ["木の葉が風で揺れています。", "船が波で揺れています。"]
+  },
+  {
+    "vocab": "汚れて",
+    "reading": "よごれて",
+    "meaning": "getting dirty",
+    "examples": ["服が泥で汚れました。", "窓が汚れて見えにくいです。"]
+  },
+  {
+    "vocab": "光って",
+    "reading": "ひかって",
+    "meaning": "shining, glowing",
+    "examples": ["電球が光っています。", "月が美しく光っています。"]
+  },
+  {
+    "vocab": "当然",
+    "reading": "とうぜん",
+    "meaning": "natural, obvious",
+    "examples": ["それは当然の結果です。", "彼が怒るのは当然です。"]
+  },
+  {
+    "vocab": "留学生活",
+    "reading": "りゅうがくせいかつ",
+    "meaning": "study abroad life",
+    "examples": [
+      "彼女は留学生活を楽しんでいます。",
+      "留学生活で多くの経験をしました。"
+    ]
+  },
+  {
+    "vocab": "横断禁止",
+    "reading": "おうだんきんし",
+    "meaning": "no crossing",
+    "examples": ["横断禁止の標識があります。", "この道路は横断禁止です。"]
+  },
+  {
+    "vocab": "電子",
+    "reading": "でんし",
+    "meaning": "electron, electronic",
+    "examples": [
+      "電子書籍をよく読みます。",
+      "この製品は電子技術を使っています。"
+    ]
+  },
+  {
+    "vocab": "簡単",
+    "reading": "かんたん",
+    "meaning": "simple, easy",
+    "examples": ["この問題は簡単です。", "簡単な説明でお願いします。"]
+  },
+  {
+    "vocab": "電車",
+    "reading": "でんしゃ",
+    "meaning": "train",
+    "examples": ["電車で通勤しています。", "この電車は東京行きです。"]
+  },
+  {
+    "vocab": "出発",
+    "reading": "しゅっぱつ",
+    "meaning": "departure",
+    "examples": ["飛行機は10時に出発します。", "出発の時間に間に合いました。"]
+  },
+  {
+    "vocab": "部屋",
+    "reading": "へや",
+    "meaning": "room",
+    "examples": ["この部屋は広いです。", "部屋を掃除しました。"]
+  },
+  {
+    "vocab": "ぶつかり",
+    "reading": "ぶつかり",
+    "meaning": "collision, clash",
+    "examples": ["車が交差点でぶつかりました。", "意見のぶつかりがありました。"]
+  },
+  {
+    "vocab": "どんどん",
+    "reading": "どんどん",
+    "meaning": "steadily, rapidly",
+    "examples": [
+      "仕事がどんどん進んでいます。",
+      "気温がどんどん上がっています。"
+    ]
+  },
+  {
+    "vocab": "暑い",
+    "reading": "あつい",
+    "meaning": "hot (weather)",
+    "examples": ["今日はとても暑いです。", "暑い夏がやってきました。"]
+  },
+  {
+    "vocab": "気温",
+    "reading": "きおん",
+    "meaning": "temperature (weather)",
+    "examples": ["気温が30度を超えました。", "気温の変化に気をつけてください。"]
+  },
+  {
+    "vocab": "沸騰",
+    "reading": "ふっとう",
+    "meaning": "boiling",
+    "examples": ["水が沸騰しました。", "お湯が沸騰するまで待ってください。"]
+  },
+  {
+    "vocab": "お湯",
+    "reading": "おゆ",
+    "meaning": "hot water",
+    "examples": ["お湯を沸かしてください。", "お湯を使ってラーメンを作ります。"]
+  },
+  {
+    "vocab": "鍋",
+    "reading": "なべ",
+    "meaning": "pot, pan",
+    "examples": ["鍋でスープを作りました。", "この鍋は焦げにくいです。"]
+  },
+  {
+    "vocab": "具合",
+    "reading": "ぐあい",
+    "meaning": "condition, state",
+    "examples": [
+      "具合が悪いので休みます。",
+      "車のエンジンの具合が良くないです。"
+    ]
+  },
+  {
+    "vocab": "悪い",
+    "reading": "わるい",
+    "meaning": "bad",
+    "examples": ["彼は悪い癖があります。", "天気が悪いです。"]
+  },
+  {
+    "vocab": "夕方熱",
+    "reading": "ゆうがたねつ",
+    "meaning": "evening fever",
+    "examples": ["夕方熱が続いています。", "彼は夕方熱で寝込んでいます。"]
+  },
+  {
+    "vocab": "腕",
+    "reading": "うで",
+    "meaning": "arm, skill",
+    "examples": ["彼の腕が折れました。", "彼女の料理の腕はすごいです。"]
+  },
+  {
+    "vocab": "まげる",
+    "reading": "まげる",
+    "meaning": "to bend",
+    "examples": ["腕をまげないでください。", "膝をまげてストレッチします。"]
+  },
+  {
+    "vocab": "出張",
+    "reading": "しゅっちょう",
+    "meaning": "business trip",
+    "examples": ["来週、東京に出張します。", "出張の準備をしています。"]
+  },
+  {
+    "vocab": "営業",
+    "reading": "えいぎょう",
+    "meaning": "business, sales",
+    "examples": ["彼は営業の仕事をしています。", "この店は営業中です。"]
+  },
+  {
+    "vocab": "課長",
+    "reading": "かちょう",
+    "meaning": "section manager",
+    "examples": ["課長が会議を開きました。", "彼は新しい課長です。"]
+  },
+  {
+    "vocab": "出張",
+    "reading": "しゅっちょう",
+    "meaning": "business trip",
+    "examples": ["彼女は海外へ出張に行きました。", "出張が多い仕事です。"]
+  },
+  {
+    "vocab": "仕事",
+    "reading": "しごと",
+    "meaning": "work, job",
+    "examples": ["仕事が忙しいです。", "彼は仕事に満足しています。"]
+  },
+  {
+    "vocab": "家族",
+    "reading": "かぞく",
+    "meaning": "family",
+    "examples": ["家族で旅行に行きました。", "私の家族は5人です。"]
+  },
+  {
+    "vocab": "海外",
+    "reading": "かいがい",
+    "meaning": "overseas",
+    "examples": ["彼は海外で働いています。", "海外旅行が大好きです。"]
+  },
+  {
+    "vocab": "残業",
+    "reading": "ざんぎょう",
+    "meaning": "overtime work",
+    "examples": [
+      "今日は残業が多かったです。",
+      "残業を減らしたいと思っています。"
+    ]
+  },
+  {
+    "vocab": "運動会",
+    "reading": "うんどうかい",
+    "meaning": "sports day",
+    "examples": ["学校で運動会が開かれました。", "運動会に参加しました。"]
+  },
+  {
+    "vocab": "慰める",
+    "reading": "なぐさめる",
+    "meaning": "to comfort, console",
+    "examples": [
+      "彼女を慰める言葉が見つかりません。",
+      "友達が失敗して慰めました。"
+    ]
+  },
+  {
+    "vocab": "祖母",
+    "reading": "そぼ",
+    "meaning": "grandmother",
+    "examples": ["祖母は優しい人です。", "祖母に会いに行きます。"]
+  },
+  {
+    "vocab": "試合",
+    "reading": "しあい",
+    "meaning": "match, game",
+    "examples": ["サッカーの試合を見ました。", "試合に勝ちました。"]
+  },
+  {
+    "vocab": "優勝",
+    "reading": "ゆうしょう",
+    "meaning": "championship, victory",
+    "examples": ["彼のチームが優勝しました。", "優勝おめでとうございます。"]
+  },
+  {
+    "vocab": "一生懸命",
+    "reading": "いっしょうけんめい",
+    "meaning": "with utmost effort",
+    "examples": ["彼は一生懸命働いています。", "試合で一生懸命戦いました。"]
+  },
+  {
+    "vocab": "選手",
+    "reading": "せんしゅ",
+    "meaning": "player, athlete",
+    "examples": ["彼はプロの選手です。", "選手たちが試合に集中しています。"]
+  },
+  {
+    "vocab": "失敗",
+    "reading": "しっぱい",
+    "meaning": "failure, mistake",
+    "examples": ["失敗から学びます。", "プロジェクトで失敗しました。"]
+  },
+  {
+    "vocab": "友人",
+    "reading": "ゆうじん",
+    "meaning": "friend",
+    "examples": ["友人と一緒に旅行しました。", "彼は私の大切な友人です。"]
+  },
+  {
+    "vocab": "希望",
+    "reading": "きぼう",
+    "meaning": "hope, wish",
+    "examples": ["私は希望を捨てません。", "希望に満ちた未来を作りたいです。"]
+  },
+  {
+    "vocab": "合格",
+    "reading": "ごうかく",
+    "meaning": "passing (an exam)",
+    "examples": ["試験に合格しました。", "合格おめでとうございます！"]
+  },
+  {
+    "vocab": "外食",
+    "reading": "がいしょく",
+    "meaning": "eating out",
+    "examples": ["外食が多くなりました。", "今日は家族と外食します。"]
+  }
+]

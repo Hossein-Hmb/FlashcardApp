@@ -1,0 +1,125 @@
+[
+  { "vocab": "単語", "reading": "たんご", "meaning": "word; vocabulary" },
+  {
+    "vocab": "作文",
+    "reading": "さくぶん",
+    "meaning": "essay; composition"
+  },
+  { "vocab": "試験", "reading": "しけん", "meaning": "exam" },
+  { "vocab": "手紙", "reading": "てがみ", "meaning": "letter" },
+  { "vocab": "メール", "reading": "メール", "meaning": "e-mail" },
+  { "vocab": "ギター", "reading": "ギター", "meaning": "guitar" },
+  { "vocab": "ピアノ", "reading": "ピアノ", "meaning": "piano" },
+  {
+    "vocab": "コンサート",
+    "reading": "コンサート",
+    "meaning": "concert"
+  },
+  { "vocab": "チケット", "reading": "チケット", "meaning": "ticket" },
+  {
+    "vocab": "歌舞伎",
+    "reading": "かぶき",
+    "meaning": "Kabuki; traditional Japanese theatrical art"
+  },
+  { "vocab": "スキー", "reading": "スキー", "meaning": "ski" },
+  {
+    "vocab": "お弁当",
+    "reading": "おべんとう",
+    "meaning": "boxed lunch"
+  },
+  { "vocab": "ピザ", "reading": "ピザ", "meaning": "pizza" },
+  {
+    "vocab": "病気",
+    "reading": "びょうき",
+    "meaning": "illness; sickness"
+  },
+  { "vocab": "薬", "reading": "くすり", "meaning": "medicine" },
+  { "vocab": "いい子", "reading": "いいこ", "meaning": "good child" },
+  { "vocab": "色", "reading": "いろ", "meaning": "color" },
+  { "vocab": "今度", "reading": "こんど", "meaning": "near future" },
+  { "vocab": "先月", "reading": "せんげつ", "meaning": "last month" },
+  { "vocab": "去年", "reading": "きょねん", "meaning": "last year" },
+  { "vocab": "青い", "reading": "あおい", "meaning": "blue" },
+  { "vocab": "赤い", "reading": "あかい", "meaning": "red" },
+  { "vocab": "黒い", "reading": "くろい", "meaning": "black" },
+  { "vocab": "白い", "reading": "しろい", "meaning": "white" },
+  { "vocab": "寂しい", "reading": "さびしい", "meaning": "lonely" },
+  { "vocab": "若い", "reading": "わかい", "meaning": "young" },
+  {
+    "vocab": "意地悪 (な)",
+    "reading": "いじわる",
+    "meaning": "mean-spirited"
+  },
+  { "vocab": "踊る", "reading": "おどる", "meaning": "to dance" },
+  {
+    "vocab": "終わる",
+    "reading": "おわる",
+    "meaning": "(something) ends (~が)"
+  },
+  {
+    "vocab": "薬を飲む",
+    "reading": "くすりをのむ",
+    "meaning": "to take medicine"
+  },
+  {
+    "vocab": "人気がある",
+    "reading": "にんきがある",
+    "meaning": "to be popular"
+  },
+  {
+    "vocab": "始まる",
+    "reading": "はじまる",
+    "meaning": "(something) begins (~が)"
+  },
+  {
+    "vocab": "弾く",
+    "reading": "ひく",
+    "meaning": "to play (a string instrument or piano) (~を)"
+  },
+  {
+    "vocab": "もらう",
+    "reading": "もらう",
+    "meaning": "to get (from somebody) (person に thing を)"
+  },
+  {
+    "vocab": "覚える",
+    "reading": "おぼえる",
+    "meaning": "to memorize (~を)"
+  },
+  {
+    "vocab": "出る",
+    "reading": "でる",
+    "meaning": "(1) to appear; to attend (~に), (2) to exit (~を)"
+  },
+  {
+    "vocab": "運動する",
+    "reading": "うんどうする",
+    "meaning": "to exercise"
+  },
+  {
+    "vocab": "散歩する",
+    "reading": "さんぽする",
+    "meaning": "to take a walk"
+  },
+  { "vocab": "そう", "reading": "そう", "meaning": "(I think) so" },
+  { "vocab": "〜から", "reading": "〜から", "meaning": "from ..." },
+  {
+    "vocab": "〜まで",
+    "reading": "〜まで",
+    "meaning": "to (a place/a time)"
+  },
+  { "vocab": "是非", "reading": "ぜひ", "meaning": "by all means" },
+  { "vocab": "ところで", "reading": "ところで", "meaning": "by the way" },
+  { "vocab": "みんな", "reading": "みんな", "meaning": "all" },
+  { "vocab": "もう", "reading": "もう", "meaning": "already" },
+  { "vocab": "一つ", "reading": "ひとつ", "meaning": "one" },
+  { "vocab": "二つ", "reading": "ふたつ", "meaning": "two" },
+  { "vocab": "三つ", "reading": "みっつ", "meaning": "three" },
+  { "vocab": "四つ", "reading": "よっつ", "meaning": "four" },
+  { "vocab": "五つ", "reading": "いつつ", "meaning": "five" },
+  { "vocab": "六つ", "reading": "むっつ", "meaning": "six" },
+  { "vocab": "七つ", "reading": "ななつ", "meaning": "seven" },
+  { "vocab": "八つ", "reading": "やっつ", "meaning": "eight" },
+  { "vocab": "九つ", "reading": "ここのつ", "meaning": "nine" },
+  { "vocab": "十（とお）", "reading": "とお", "meaning": "ten" }
+]

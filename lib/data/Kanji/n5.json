@@ -1,0 +1,827 @@
+[
+  {
+    "character": "一",
+    "onyomi": "いち",
+    "kunyomi": "ひとつ",
+    "meaning": "one",
+    "level": "N5",
+    "examples": ["一月", "一日"]
+  },
+  {
+    "character": "二",
+    "onyomi": "に",
+    "kunyomi": "ふたつ",
+    "meaning": "two",
+    "level": "N5",
+    "examples": ["二月", "二人"]
+  },
+  {
+    "character": "三",
+    "onyomi": "さん",
+    "kunyomi": "みっつ",
+    "meaning": "three",
+    "level": "N5",
+    "examples": ["三月", "三日"]
+  },
+  {
+    "character": "四",
+    "onyomi": "し",
+    "kunyomi": "よん",
+    "meaning": "four",
+    "level": "N5",
+    "examples": ["四月", "四日"]
+  },
+  {
+    "character": "五",
+    "onyomi": "ご",
+    "kunyomi": "いつつ",
+    "meaning": "five",
+    "level": "N5",
+    "examples": ["五月", "五日"]
+  },
+  {
+    "character": "六",
+    "onyomi": "ろく",
+    "kunyomi": "むっつ",
+    "meaning": "six",
+    "level": "N5",
+    "examples": ["六月", "六日"]
+  },
+  {
+    "character": "七",
+    "onyomi": "しち",
+    "kunyomi": "ななつ",
+    "meaning": "seven",
+    "level": "N5",
+    "examples": ["七月", "七日"]
+  },
+  {
+    "character": "八",
+    "onyomi": "はち",
+    "kunyomi": "やっつ",
+    "meaning": "eight",
+    "level": "N5",
+    "examples": ["八月", "八日"]
+  },
+  {
+    "character": "九",
+    "onyomi": "きゅう",
+    "kunyomi": "ここのつ",
+    "meaning": "nine",
+    "level": "N5",
+    "examples": ["九月", "九日"]
+  },
+  {
+    "character": "十",
+    "onyomi": "じゅう",
+    "kunyomi": "とお",
+    "meaning": "ten",
+    "level": "N5",
+    "examples": ["十月", "十日"]
+  },
+  {
+    "character": "人",
+    "onyomi": "じん",
+    "kunyomi": "ひと",
+    "meaning": "person",
+    "level": "N5",
+    "examples": ["日本人", "一人"]
+  },
+  {
+    "character": "今",
+    "onyomi": "こん",
+    "kunyomi": "いま",
+    "meaning": "now",
+    "level": "N5",
+    "examples": ["今日", "今週"]
+  },
+  {
+    "character": "日",
+    "onyomi": "にち",
+    "kunyomi": "ひ",
+    "meaning": "day, sun",
+    "level": "N5",
+    "examples": ["日本", "日曜日"]
+  },
+
+  {
+    "character": "週",
+    "onyomi": "しゅう",
+    "kunyomi": "",
+    "meaning": "week",
+    "level": "N5",
+    "examples": ["一週間", "週末"]
+  },
+  {
+    "character": "月",
+    "onyomi": "げつ",
+    "kunyomi": "つき",
+    "meaning": "month, moon",
+    "level": "N5",
+    "examples": ["月曜日", "一月"]
+  },
+  {
+    "character": "年",
+    "onyomi": "ねん",
+    "kunyomi": "とし",
+    "meaning": "year",
+    "level": "N5",
+    "examples": ["今年", "去年"]
+  },
+  {
+    "character": "中",
+    "onyomi": "ちゅう",
+    "kunyomi": "なか",
+    "meaning": "middle, inside",
+    "level": "N5",
+    "examples": ["中国", "一日中"]
+  },
+  {
+    "character": "山",
+    "onyomi": "さん",
+    "kunyomi": "やま",
+    "meaning": "mountain",
+    "level": "N5",
+    "examples": ["山登り", "富士山"]
+  },
+  {
+    "character": "川",
+    "onyomi": "せん",
+    "kunyomi": "かわ",
+    "meaning": "river",
+    "level": "N5",
+    "examples": ["川岸", "川上"]
+  },
+  {
+    "character": "左",
+    "onyomi": "さ",
+    "kunyomi": "ひだり",
+    "meaning": "left",
+    "level": "N5",
+    "examples": ["左手", "左右"]
+  },
+  {
+    "character": "右",
+    "onyomi": "う",
+    "kunyomi": "みぎ",
+    "meaning": "right",
+    "level": "N5",
+    "examples": ["右手", "左右"]
+  },
+  {
+    "character": "大",
+    "onyomi": "だい",
+    "kunyomi": "おおきい",
+    "meaning": "big, large",
+    "level": "N5",
+    "examples": ["大人", "大学"]
+  },
+  {
+    "character": "木",
+    "onyomi": "もく",
+    "kunyomi": "き",
+    "meaning": "tree, wood",
+    "level": "N5",
+    "examples": ["木曜日", "木材"]
+  },
+  {
+    "character": "本",
+    "onyomi": "ほん",
+    "kunyomi": "もと",
+    "meaning": "book, origin",
+    "level": "N5",
+    "examples": ["日本", "本棚"]
+  },
+  {
+    "character": "水",
+    "onyomi": "すい",
+    "kunyomi": "みず",
+    "meaning": "water",
+    "level": "N5",
+    "examples": ["水曜日", "水道"]
+  },
+  {
+    "character": "火",
+    "onyomi": "か",
+    "kunyomi": "ひ",
+    "meaning": "fire",
+    "level": "N5",
+    "examples": ["火曜日", "火山"]
+  },
+  {
+    "character": "父",
+    "onyomi": "ふ",
+    "kunyomi": "ちち",
+    "meaning": "father",
+    "level": "N5",
+    "examples": ["父親", "祖父"]
+  },
+  {
+    "character": "母",
+    "onyomi": "ぼ",
+    "kunyomi": "はは",
+    "meaning": "mother",
+    "level": "N5",
+    "examples": ["母親", "祖母"]
+  },
+  {
+    "character": "耳",
+    "onyomi": "じ",
+    "kunyomi": "みみ",
+    "meaning": "ear",
+    "level": "N5",
+    "examples": ["耳かき", "耳鼻科"]
+  },
+  {
+    "character": "口",
+    "onyomi": "こう",
+    "kunyomi": "くち",
+    "meaning": "mouth",
+    "level": "N5",
+    "examples": ["入口", "出口"]
+  },
+  {
+    "character": "休",
+    "onyomi": "きゅう",
+    "kunyomi": "やすむ",
+    "meaning": "rest",
+    "level": "N5",
+    "examples": ["休日", "休憩"]
+  },
+  {
+    "character": "何",
+    "onyomi": "か",
+    "kunyomi": "なに",
+    "meaning": "what",
+    "level": "N5",
+    "examples": ["何時", "何人"]
+  },
+  {
+    "character": "入",
+    "onyomi": "にゅう",
+    "kunyomi": "はいる",
+    "meaning": "enter",
+    "level": "N5",
+    "examples": ["入学", "入る"]
+  },
+  {
+    "character": "上",
+    "onyomi": "じょう",
+    "kunyomi": "うえ",
+    "meaning": "up",
+    "level": "N5",
+    "examples": ["上手", "上がる"]
+  },
+  {
+    "character": "前",
+    "onyomi": "ぜん",
+    "kunyomi": "まえ",
+    "meaning": "before, front",
+    "level": "N5",
+    "examples": ["名前", "午前"]
+  },
+  {
+    "character": "下",
+    "onyomi": "か",
+    "kunyomi": "した",
+    "meaning": "down",
+    "level": "N5",
+    "examples": ["地下", "下がる"]
+  },
+  {
+    "character": "千",
+    "onyomi": "せん",
+    "kunyomi": "ち",
+    "meaning": "thousand",
+    "level": "N5",
+    "examples": ["千円", "千年"]
+  },
+  {
+    "character": "午",
+    "onyomi": "ご",
+    "kunyomi": "",
+    "meaning": "noon",
+    "level": "N5",
+    "examples": ["午後", "午前"]
+  },
+  {
+    "character": "友",
+    "onyomi": "ゆう",
+    "kunyomi": "とも",
+    "meaning": "friend",
+    "level": "N5",
+    "examples": ["友達", "親友"]
+  },
+  {
+    "character": "古",
+    "onyomi": "こ",
+    "kunyomi": "ふるい",
+    "meaning": "old",
+    "level": "N5",
+    "examples": ["古い", "古本"]
+  },
+  {
+    "character": "名",
+    "onyomi": "めい",
+    "kunyomi": "な",
+    "meaning": "name",
+    "level": "N5",
+    "examples": ["名前", "有名"]
+  },
+  {
+    "character": "国",
+    "onyomi": "こく",
+    "kunyomi": "くに",
+    "meaning": "country",
+    "level": "N5",
+    "examples": ["外国", "中国"]
+  },
+  {
+    "character": "外",
+    "onyomi": "がい",
+    "kunyomi": "そと",
+    "meaning": "outside",
+    "level": "N5",
+    "examples": ["外国", "外出"]
+  },
+  {
+    "character": "女",
+    "onyomi": "じょ",
+    "kunyomi": "おんな",
+    "meaning": "woman",
+    "level": "N5",
+    "examples": ["女の子", "女性"]
+  },
+  {
+    "character": "男",
+    "onyomi": "だん",
+    "kunyomi": "おとこ",
+    "meaning": "man",
+    "level": "N5",
+    "examples": ["男の子", "男性"]
+  },
+  {
+    "character": "子",
+    "onyomi": "し",
+    "kunyomi": "こ",
+    "meaning": "child",
+    "level": "N5",
+    "examples": ["子供", "男子"]
+  },
+  {
+    "character": "学",
+    "onyomi": "がく",
+    "kunyomi": "まなぶ",
+    "meaning": "study",
+    "level": "N5",
+    "examples": ["学生", "学校"]
+  },
+  {
+    "character": "生",
+    "onyomi": "せい",
+    "kunyomi": "いきる",
+    "meaning": "life",
+    "level": "N5",
+    "examples": ["生きる", "先生"]
+  },
+  {
+    "character": "小",
+    "onyomi": "しょう",
+    "kunyomi": "ちいさい",
+    "meaning": "small",
+    "level": "N5",
+    "examples": ["小学校", "小さい"]
+  },
+  {
+    "character": "書",
+    "onyomi": "しょ",
+    "kunyomi": "かく",
+    "meaning": "write",
+    "level": "N5",
+    "examples": ["書く", "読書"]
+  },
+  {
+    "character": "毎",
+    "onyomi": "まい",
+    "kunyomi": "",
+    "meaning": "every",
+    "level": "N5",
+    "examples": ["毎日", "毎週"]
+  },
+  {
+    "character": "先",
+    "onyomi": "せん",
+    "kunyomi": "さき",
+    "meaning": "before",
+    "level": "N5",
+    "examples": ["先生", "先週"]
+  },
+  {
+    "character": "会",
+    "onyomi": "かい",
+    "kunyomi": "あう",
+    "meaning": "meet",
+    "level": "N5",
+    "examples": ["会社", "会う"]
+  },
+  {
+    "character": "万",
+    "onyomi": "まん",
+    "kunyomi": "",
+    "meaning": "ten thousand",
+    "level": "N5",
+    "examples": ["一万円", "万年筆"]
+  },
+  {
+    "character": "円",
+    "onyomi": "えん",
+    "kunyomi": "まるい",
+    "meaning": "yen, circle",
+    "level": "N5",
+    "examples": ["百円", "円形"]
+  },
+  {
+    "character": "出",
+    "onyomi": "しゅつ",
+    "kunyomi": "でる",
+    "meaning": "exit, go out",
+    "level": "N5",
+    "examples": ["出口", "出る"]
+  },
+  {
+    "character": "分",
+    "onyomi": "ぶん",
+    "kunyomi": "わかる",
+    "meaning": "minute, understand",
+    "level": "N5",
+    "examples": ["五分", "分かる"]
+  },
+  {
+    "character": "北",
+    "onyomi": "ほく",
+    "kunyomi": "きた",
+    "meaning": "north",
+    "level": "N5",
+    "examples": ["北口", "北海道"]
+  },
+  {
+    "character": "半",
+    "onyomi": "はん",
+    "kunyomi": "",
+    "meaning": "half",
+    "level": "N5",
+    "examples": ["半年", "半分"]
+  },
+  {
+    "character": "南",
+    "onyomi": "なん",
+    "kunyomi": "みなみ",
+    "meaning": "south",
+    "level": "N5",
+    "examples": ["南口", "南米"]
+  },
+  {
+    "character": "土",
+    "onyomi": "ど",
+    "kunyomi": "つち",
+    "meaning": "earth",
+    "level": "N5",
+    "examples": ["土地", "土曜日"]
+  },
+  {
+    "character": "多",
+    "onyomi": "た",
+    "kunyomi": "おおい",
+    "meaning": "many",
+    "level": "N5",
+    "examples": ["多分", "多少"]
+  },
+  {
+    "character": "天",
+    "onyomi": "てん",
+    "kunyomi": "あま",
+    "meaning": "heaven, sky",
+    "level": "N5",
+    "examples": ["天気", "天国"]
+  },
+  {
+    "character": "安",
+    "onyomi": "あん",
+    "kunyomi": "やすい",
+    "meaning": "cheap, safe",
+    "level": "N5",
+    "examples": ["安全", "安い"]
+  },
+  {
+    "character": "少",
+    "onyomi": "しょう",
+    "kunyomi": "すくない",
+    "meaning": "few",
+    "level": "N5",
+    "examples": ["少ない", "多少"]
+  },
+  {
+    "character": "店",
+    "onyomi": "てん",
+    "kunyomi": "みせ",
+    "meaning": "shop",
+    "level": "N5",
+    "examples": ["店員", "本店"]
+  },
+  {
+    "character": "後",
+    "onyomi": "ご",
+    "kunyomi": "あと",
+    "meaning": "after, behind",
+    "level": "N5",
+    "examples": ["午後", "後で"]
+  },
+  {
+    "character": "手",
+    "onyomi": "しゅ",
+    "kunyomi": "て",
+    "meaning": "hand",
+    "level": "N5",
+    "examples": ["手紙", "歌手"]
+  },
+  {
+    "character": "新",
+    "onyomi": "しん",
+    "kunyomi": "あたらしい",
+    "meaning": "new",
+    "level": "N5",
+    "examples": ["新聞", "新しい"]
+  },
+  {
+    "character": "時",
+    "onyomi": "じ",
+    "kunyomi": "とき",
+    "meaning": "time",
+    "level": "N5",
+    "examples": ["時間", "時々"]
+  },
+  {
+    "character": "来",
+    "onyomi": "らい",
+    "kunyomi": "くる",
+    "meaning": "come",
+    "level": "N5",
+    "examples": ["来年", "来る"]
+  },
+  {
+    "character": "東",
+    "onyomi": "とう",
+    "kunyomi": "ひがし",
+    "meaning": "east",
+    "level": "N5",
+    "examples": ["東京", "東口"]
+  },
+  {
+    "character": "校",
+    "onyomi": "こう",
+    "kunyomi": "",
+    "meaning": "school",
+    "level": "N5",
+    "examples": ["学校", "高校"]
+  },
+  {
+    "character": "気",
+    "onyomi": "き",
+    "kunyomi": "",
+    "meaning": "spirit, air",
+    "level": "N5",
+    "examples": ["天気", "元気"]
+  },
+  {
+    "character": "白",
+    "onyomi": "はく",
+    "kunyomi": "しろ",
+    "meaning": "white",
+    "level": "N5",
+    "examples": ["白い", "白紙"]
+  },
+  {
+    "character": "百",
+    "onyomi": "ひゃく",
+    "kunyomi": "",
+    "meaning": "hundred",
+    "level": "N5",
+    "examples": ["百円", "百年"]
+  },
+  {
+    "character": "目",
+    "onyomi": "もく",
+    "kunyomi": "め",
+    "meaning": "eye",
+    "level": "N5",
+    "examples": ["目薬", "目的"]
+  },
+  {
+    "character": "社",
+    "onyomi": "しゃ",
+    "kunyomi": "",
+    "meaning": "company",
+    "level": "N5",
+    "examples": ["会社", "社会"]
+  },
+  {
+    "character": "空",
+    "onyomi": "くう",
+    "kunyomi": "そら",
+    "meaning": "sky, empty",
+    "level": "N5",
+    "examples": ["空港", "空"]
+  },
+  {
+    "character": "立",
+    "onyomi": "りつ",
+    "kunyomi": "たつ",
+    "meaning": "stand",
+    "level": "N5",
+    "examples": ["立場", "立つ"]
+  },
+  {
+    "character": "聞",
+    "onyomi": "ぶん",
+    "kunyomi": "きく",
+    "meaning": "hear",
+    "level": "N5",
+    "examples": ["新聞", "聞く"]
+  },
+  {
+    "character": "花",
+    "onyomi": "か",
+    "kunyomi": "はな",
+    "meaning": "flower",
+    "level": "N5",
+    "examples": ["花火", "花見"]
+  },
+  {
+    "character": "行",
+    "onyomi": "こう",
+    "kunyomi": "いく",
+    "meaning": "go",
+    "level": "N5",
+    "examples": ["銀行", "行く"]
+  },
+  {
+    "character": "西",
+    "onyomi": "せい",
+    "kunyomi": "にし",
+    "meaning": "west",
+    "level": "N5",
+    "examples": ["西口", "西洋"]
+  },
+  {
+    "character": "見",
+    "onyomi": "けん",
+    "kunyomi": "みる",
+    "meaning": "see",
+    "level": "N5",
+    "examples": ["見る", "見学"]
+  },
+  {
+    "character": "言",
+    "onyomi": "げん",
+    "kunyomi": "いう",
+    "meaning": "say",
+    "level": "N5",
+    "examples": ["言葉", "言う"]
+  },
+  {
+    "character": "話",
+    "onyomi": "わ",
+    "kunyomi": "はなす",
+    "meaning": "talk",
+    "level": "N5",
+    "examples": ["会話", "話す"]
+  },
+  {
+    "character": "語",
+    "onyomi": "ご",
+    "kunyomi": "かたる",
+    "meaning": "language",
+    "level": "N5",
+    "examples": ["日本語", "物語"]
+  },
+  {
+    "character": "読",
+    "onyomi": "どく",
+    "kunyomi": "よむ",
+    "meaning": "read",
+    "level": "N5",
+    "examples": ["読書", "読む"]
+  },
+  {
+    "character": "買",
+    "onyomi": "ばい",
+    "kunyomi": "かう",
+    "meaning": "buy",
+    "level": "N5",
+    "examples": ["買い物", "買う"]
+  },
+  {
+    "character": "足",
+    "onyomi": "そく",
+    "kunyomi": "あし",
+    "meaning": "foot, leg",
+    "level": "N5",
+    "examples": ["足りる", "満足"]
+  },
+  {
+    "character": "車",
+    "onyomi": "しゃ",
+    "kunyomi": "くるま",
+    "meaning": "car, vehicle",
+    "level": "N5",
+    "examples": ["自転車", "電車"]
+  },
+  {
+    "character": "道",
+    "onyomi": "どう",
+    "kunyomi": "みち",
+    "meaning": "road, way",
+    "level": "N5",
+    "examples": ["道路", "書道"]
+  },
+  {
+    "character": "金",
+    "onyomi": "きん",
+    "kunyomi": "かね",
+    "meaning": "gold, money",
+    "level": "N5",
+    "examples": ["金曜日", "お金"]
+  },
+  {
+    "character": "長",
+    "onyomi": "ちょう",
+    "kunyomi": "ながい",
+    "meaning": "long, leader",
+    "level": "N5",
+    "examples": ["社長", "長い"]
+  },
+  {
+    "character": "間",
+    "onyomi": "かん",
+    "kunyomi": "あいだ",
+    "meaning": "interval, space",
+    "level": "N5",
+    "examples": ["時間", "人間"]
+  },
+  {
+    "character": "雨",
+    "onyomi": "う",
+    "kunyomi": "あめ",
+    "meaning": "rain",
+    "level": "N5",
+    "examples": ["大雨", "雨天"]
+  },
+  {
+    "character": "電",
+    "onyomi": "でん",
+    "kunyomi": "",
+    "meaning": "electricity",
+    "level": "N5",
+    "examples": ["電車", "電話"]
+  },
+  {
+    "character": "食",
+    "onyomi": "しょく",
+    "kunyomi": "たべる",
+    "meaning": "eat",
+    "level": "N5",
+    "examples": ["食事", "食べる"]
+  },
+  {
+    "character": "飲",
+    "onyomi": "いん",
+    "kunyomi": "のむ",
+    "meaning": "drink",
+    "level": "N5",
+    "examples": ["飲み物", "飲む"]
+  },
+  {
+    "character": "駅",
+    "onyomi": "えき",
+    "kunyomi": "",
+    "meaning": "station",
+    "level": "N5",
+    "examples": ["駅前", "東京駅"]
+  },
+  {
+    "character": "高",
+    "onyomi": "こう",
+    "kunyomi": "たかい",
+    "meaning": "high, tall",
+    "level": "N5",
+    "examples": ["高校", "高い"]
+  },
+  {
+    "character": "魚",
+    "onyomi": "ぎょ",
+    "kunyomi": "さかな",
+    "meaning": "fish",
+    "level": "N5",
+    "examples": ["魚屋", "金魚"]
+  }
+]

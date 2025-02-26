@@ -1,0 +1,158 @@
+[
+  { "vocab": "家族", "reading": "かぞく", "meaning": "family" },
+  {
+    "vocab": "おじいさん",
+    "reading": "おじいさん",
+    "meaning": "grandfather; old man"
+  },
+  {
+    "vocab": "おばあさん",
+    "reading": "おばあさん",
+    "meaning": "grandmother; old woman"
+  },
+  {
+    "vocab": "お兄さん",
+    "reading": "おにいさん",
+    "meaning": "older brother"
+  },
+  {
+    "vocab": "お姉さん",
+    "reading": "おねえさん",
+    "meaning": "older sister"
+  },
+  { "vocab": "父", "reading": "ちち", "meaning": "(my) father" },
+  { "vocab": "母", "reading": "はは", "meaning": "(my) mother" },
+  { "vocab": "兄", "reading": "あに", "meaning": "(my) older brother" },
+  { "vocab": "姉", "reading": "あね", "meaning": "(my) older sister" },
+  { "vocab": "妹", "reading": "いもうと", "meaning": "younger sister" },
+  { "vocab": "弟", "reading": "おとうと", "meaning": "younger brother" },
+  {
+    "vocab": "兄弟",
+    "reading": "きょうだい",
+    "meaning": "brothers and sisters"
+  },
+  { "vocab": "男の人", "reading": "おとこのひと", "meaning": "man" },
+  { "vocab": "女の人", "reading": "おんなのひと", "meaning": "woman" },
+  { "vocab": "会社", "reading": "かいしゃ", "meaning": "company" },
+  {
+    "vocab": "食堂",
+    "reading": "しょくどう",
+    "meaning": "cafeteria; dining commons"
+  },
+  {
+    "vocab": "デパート",
+    "reading": "デパート",
+    "meaning": "department store"
+  },
+  { "vocab": "髪", "reading": "かみ", "meaning": "hair" },
+  { "vocab": "口", "reading": "くち", "meaning": "mouth" },
+  { "vocab": "目", "reading": "め", "meaning": "eye" },
+  { "vocab": "眼鏡", "reading": "めがね", "meaning": "glasses" },
+  { "vocab": "歌", "reading": "うた", "meaning": "song" },
+  {
+    "vocab": "サークル",
+    "reading": "サークル",
+    "meaning": "club activity"
+  },
+  { "vocab": "車", "reading": "くるま", "meaning": "car" },
+  { "vocab": "長い", "reading": "ながい", "meaning": "long" },
+  { "vocab": "短い", "reading": "みじかい", "meaning": "short (length)" },
+  { "vocab": "速い", "reading": "はやい", "meaning": "fast" },
+  {
+    "vocab": "背が高い",
+    "reading": "せがたかい",
+    "meaning": "tall (stature)"
+  },
+  {
+    "vocab": "背が低い",
+    "reading": "せがひくい",
+    "meaning": "short (stature)"
+  },
+  {
+    "vocab": "頭がいい",
+    "reading": "あたまがいい",
+    "meaning": "bright; smart; clever"
+  },
+  { "vocab": "かわいい", "reading": "かわいい", "meaning": "cute" },
+  { "vocab": "親切な", "reading": "しんせつな", "meaning": "kind" },
+  { "vocab": "便利な", "reading": "べんりな", "meaning": "convenient" },
+  { "vocab": "歌う", "reading": "うたう", "meaning": "to sing (~を)" },
+  {
+    "vocab": "かぶる",
+    "reading": "かぶる",
+    "meaning": "to put on (a hat) (~を)"
+  },
+  {
+    "vocab": "はく",
+    "reading": "はく",
+    "meaning": "to put on (items below your waist) (~を)"
+  },
+  {
+    "vocab": "知る",
+    "reading": "しる",
+    "meaning": "to get to know (~を)"
+  },
+  {
+    "vocab": "知っています",
+    "reading": "しっています",
+    "meaning": "I know"
+  },
+  {
+    "vocab": "知りません",
+    "reading": "しりません",
+    "meaning": "I do not know"
+  },
+  {
+    "vocab": "住む",
+    "reading": "すむ",
+    "meaning": "to live (~にすんでいます)"
+  },
+  { "vocab": "働く", "reading": "はたらく", "meaning": "to work" },
+  { "vocab": "太る", "reading": "ふとる", "meaning": "to gain weight" },
+  {
+    "vocab": "太っています",
+    "reading": "ふとっています",
+    "meaning": "to be on the heavy side; overweight"
+  },
+  {
+    "vocab": "かける",
+    "reading": "かける",
+    "meaning": "to put on (glasses)"
+  },
+  {
+    "vocab": "着る",
+    "reading": "きる",
+    "meaning": "to put on (clothes above your waist) (~を)"
+  },
+  { "vocab": "やせる", "reading": "やせる", "meaning": "to lose weight" },
+  {
+    "vocab": "やせています",
+    "reading": "やせています",
+    "meaning": "to be thin"
+  },
+  {
+    "vocab": "結婚する",
+    "reading": "けっこんする",
+    "meaning": "to get married (~と)"
+  },
+  { "vocab": "が", "reading": "が", "meaning": "but" },
+  { "vocab": "何も", "reading": "なにも", "meaning": "not...anything" },
+  {
+    "vocab": "〜人",
+    "reading": "〜にん",
+    "meaning": "[counter for people]"
+  },
+  { "vocab": "一人", "reading": "ひとり", "meaning": "one person" },
+  { "vocab": "二人", "reading": "ふたり", "meaning": "two people" },
+  {
+    "vocab": "別に",
+    "reading": "べつに",
+    "meaning": "nothing in particular"
+  },
+  { "vocab": "もちろん", "reading": "もちろん", "meaning": "of course" },
+  {
+    "vocab": "よかったら",
+    "reading": "よかったら",
+    "meaning": "if you like"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  { "vocab": "季節", "reading": "きせつ", "meaning": "season" },
+  { "vocab": "春", "reading": "はる", "meaning": "spring" },
+  { "vocab": "秋", "reading": "あき", "meaning": "fall" },
+  { "vocab": "牛乳", "reading": "ぎゅうにゅう", "meaning": "milk" },
+  { "vocab": "ケーキ", "reading": "ケーキ", "meaning": "cake" },
+  { "vocab": "すし", "reading": "すし", "meaning": "sushi" },
+  { "vocab": "天ぷら", "reading": "てんぷら", "meaning": "tempura" },
+  { "vocab": "りんご", "reading": "りんご", "meaning": "apple" },
+  { "vocab": "料理", "reading": "りょうり", "meaning": "cuisine" },
+  { "vocab": "サッカー", "reading": "サッカー", "meaning": "soccer" },
+  { "vocab": "野球", "reading": "やきゅう", "meaning": "baseball" },
+  { "vocab": "医者", "reading": "いしゃ", "meaning": "doctor" },
+  {
+    "vocab": "お金持ち",
+    "reading": "おかねもち",
+    "meaning": "rich person"
+  },
+  {
+    "vocab": "有名人",
+    "reading": "ゆうめいじん",
+    "meaning": "celebrity"
+  },
+  { "vocab": "顔", "reading": "かお", "meaning": "face" },
+  { "vocab": "年上", "reading": "としうえ", "meaning": "someone older" },
+  { "vocab": "駅", "reading": "えき", "meaning": "station" },
+  {
+    "vocab": "新幹線",
+    "reading": "しんかんせん",
+    "meaning": "Shinkansen; Bullet Train"
+  },
+  { "vocab": "地下鉄", "reading": "ちかてつ", "meaning": "subway" },
+  { "vocab": "船", "reading": "ふね", "meaning": "ship; boat" },
+  { "vocab": "飛行機", "reading": "ひこうき", "meaning": "airplane" },
+  { "vocab": "予約", "reading": "よやく", "meaning": "reservation" },
+  { "vocab": "ツアー", "reading": "ツアー", "meaning": "tour" },
+  { "vocab": "動物園", "reading": "どうぶつえん", "meaning": "zoo" },
+  { "vocab": "時間", "reading": "じかん", "meaning": "time" },
+  { "vocab": "世界", "reading": "せかい", "meaning": "world" },
+  {
+    "vocab": "美容院",
+    "reading": "びよういん",
+    "meaning": "beauty parlor"
+  },
+  { "vocab": "手ぶくる", "reading": "てぶくろ", "meaning": "gloves" },
+  { "vocab": "生活", "reading": "せいかつ", "meaning": "life; living" },
+  { "vocab": "今年", "reading": "ことし", "meaning": "this year" },
+  { "vocab": "暖かい", "reading": "あたたかい", "meaning": "warm" },
+  {
+    "vocab": "涼しい",
+    "reading": "すずしい",
+    "meaning": "cool (weather—not used for things)"
+  },
+  {
+    "vocab": "冷たい",
+    "reading": "つめたい",
+    "meaning": "cold (things/people)"
+  },
+  { "vocab": "遅い", "reading": "おそい", "meaning": "slow; late" },
+  { "vocab": "眠い", "reading": "ねむい", "meaning": "sleepy" },
+  { "vocab": "簡単", "reading": "かんたんな", "meaning": "easy; simple" },
+  {
+    "vocab": "かかる",
+    "reading": "かかる",
+    "meaning": "to take (amount of time/money)"
+  },
+  {
+    "vocab": "泊まる",
+    "reading": "とまる",
+    "meaning": "to stay (at a hotel, etc.)"
+  },
+  { "vocab": "なる", "reading": "なる", "meaning": "to become" },
+  {
+    "vocab": "決める",
+    "reading": "きめる",
+    "meaning": "to decide (~を)"
+  },
+  {
+    "vocab": "ごろごろする",
+    "reading": "ごろごろする",
+    "meaning": "to chill out at home; to stay home and do nothing"
+  },
+  {
+    "vocab": "旅行する",
+    "reading": "りょこうする",
+    "meaning": "to travel"
+  },
+  {
+    "vocab": "練習する",
+    "reading": "れんしゅうする",
+    "meaning": "to practice (~を)"
+  },
+  { "vocab": "一番", "reading": "いちばん", "meaning": "best" },
+  {
+    "vocab": "どっち／どちら",
+    "reading": "どっち／どちら",
+    "meaning": "which"
+  },
+  {
+    "vocab": "早く／速く",
+    "reading": "はやく／速く",
+    "meaning": "(do something) early; fast"
+  },
+  { "vocab": "歩いて", "reading": "あるいて", "meaning": "on foot" },
+  {
+    "vocab": "〜で",
+    "reading": "〜で",
+    "meaning": "by (means of transportation); with (a tool)"
+  },
+  {
+    "vocab": "どうやって",
+    "reading": "どうやって",
+    "meaning": "how; by what means"
+  },
+  {
+    "vocab": "どのぐらい",
+    "reading": "どのぐらい",
+    "meaning": "how much; how long"
+  },
+  {
+    "vocab": "〜週間",
+    "reading": "〜しゅうかん",
+    "meaning": "for ... weeks"
+  },
+  {
+    "vocab": "〜か月",
+    "reading": "〜かげつ",
+    "meaning": "for ... months"
+  },
+  { "vocab": "〜年", "reading": "〜ねん", "meaning": "for ... years" },
+  { "vocab": "このごろ", "reading": "このごろ", "meaning": "these days" },
+  {
+    "vocab": "〜後",
+    "reading": "〜ご",
+    "meaning": "in ... time; after ..."
+  },
+  { "vocab": "〜か", "reading": "〜か", "meaning": "or" }
+]

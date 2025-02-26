@@ -1,0 +1,3362 @@
+[
+  {
+    "character": "丸",
+    "onyomi": "がん",
+    "kunyomi": "まる",
+    "meaning": "circle, round",
+    "level": "N3",
+    "examples": ["丸い", "弾丸"]
+  },
+  {
+    "character": "久",
+    "onyomi": "きゅう",
+    "kunyomi": "ひさしい",
+    "meaning": "long time",
+    "level": "N3",
+    "examples": ["久しぶり", "永久"]
+  },
+  {
+    "character": "才",
+    "onyomi": "さい",
+    "kunyomi": "",
+    "meaning": "talent, age",
+    "level": "N3",
+    "examples": ["天才", "何才"]
+  },
+  {
+    "character": "支",
+    "onyomi": "し",
+    "kunyomi": "ささえる",
+    "meaning": "support",
+    "level": "N3",
+    "examples": ["支える", "支持"]
+  },
+  {
+    "character": "戸",
+    "onyomi": "こ",
+    "kunyomi": "と",
+    "meaning": "door",
+    "level": "N3",
+    "examples": ["戸", "戸籍"]
+  },
+  {
+    "character": "欠",
+    "onyomi": "けつ",
+    "kunyomi": "かける",
+    "meaning": "lack",
+    "level": "N3",
+    "examples": ["欠ける", "欠席"]
+  },
+  {
+    "character": "王",
+    "onyomi": "おう",
+    "kunyomi": "",
+    "meaning": "king",
+    "level": "N3",
+    "examples": ["王様", "女王"]
+  },
+  {
+    "character": "化",
+    "onyomi": "か",
+    "kunyomi": "ばける",
+    "meaning": "change, transform",
+    "level": "N3",
+    "examples": ["文化", "変化"]
+  },
+  {
+    "character": "内",
+    "onyomi": "ない",
+    "kunyomi": "うち",
+    "meaning": "inside",
+    "level": "N3",
+    "examples": ["内容", "内側"]
+  },
+  {
+    "character": "反",
+    "onyomi": "はん",
+    "kunyomi": "そる",
+    "meaning": "oppose",
+    "level": "N3",
+    "examples": ["反対", "違反"]
+  },
+  {
+    "character": "比",
+    "onyomi": "ひ",
+    "kunyomi": "くらべる",
+    "meaning": "compare",
+    "level": "N3",
+    "examples": ["比べる", "比例"]
+  },
+  {
+    "character": "夫",
+    "onyomi": "ふ",
+    "kunyomi": "おっと",
+    "meaning": "husband",
+    "level": "N3",
+    "examples": ["夫", "夫婦"]
+  },
+  {
+    "character": "仏",
+    "onyomi": "ぶつ",
+    "kunyomi": "ほとけ",
+    "meaning": "Buddha, France",
+    "level": "N3",
+    "examples": ["仏教", "仏"]
+  },
+  {
+    "character": "毛",
+    "onyomi": "もう",
+    "kunyomi": "け",
+    "meaning": "hair, fur",
+    "level": "N3",
+    "examples": ["毛", "羊毛"]
+  },
+  {
+    "character": "予",
+    "onyomi": "よ",
+    "kunyomi": "",
+    "meaning": "beforehand",
+    "level": "N3",
+    "examples": ["予定", "予習"]
+  },
+  {
+    "character": "由",
+    "onyomi": "ゆ",
+    "kunyomi": "よし",
+    "meaning": "reason, origin",
+    "level": "N3",
+    "examples": ["理由", "自由"]
+  },
+  {
+    "character": "未",
+    "onyomi": "み",
+    "kunyomi": "",
+    "meaning": "not yet",
+    "level": "N3",
+    "examples": ["未来", "未定"]
+  },
+  {
+    "character": "布",
+    "onyomi": "ふ",
+    "kunyomi": "ぬの",
+    "meaning": "cloth",
+    "level": "N3",
+    "examples": ["布", "布団"]
+  },
+  {
+    "character": "包",
+    "onyomi": "ほう",
+    "kunyomi": "つつむ",
+    "meaning": "wrap",
+    "level": "N3",
+    "examples": ["包む", "包装"]
+  },
+  {
+    "character": "末",
+    "onyomi": "まつ",
+    "kunyomi": "すえ",
+    "meaning": "end, tip",
+    "level": "N3",
+    "examples": ["週末", "末"]
+  },
+  {
+    "character": "平",
+    "onyomi": "へい",
+    "kunyomi": "たいら",
+    "meaning": "flat, peace",
+    "level": "N3",
+    "examples": ["平和", "平日"]
+  },
+  {
+    "character": "辺",
+    "onyomi": "へん",
+    "kunyomi": "あたり",
+    "meaning": "area, vicinity",
+    "level": "N3",
+    "examples": ["辺り", "周辺"]
+  },
+  {
+    "character": "氷",
+    "onyomi": "ひょう",
+    "kunyomi": "こおり",
+    "meaning": "ice",
+    "level": "N3",
+    "examples": ["氷", "氷山"]
+  },
+  {
+    "character": "付",
+    "onyomi": "ふ",
+    "kunyomi": "つける",
+    "meaning": "attach",
+    "level": "N3",
+    "examples": ["付ける", "付属"]
+  },
+  {
+    "character": "皮",
+    "onyomi": "ひ",
+    "kunyomi": "かわ",
+    "meaning": "skin",
+    "level": "N3",
+    "examples": ["皮", "皮膚"]
+  },
+  {
+    "character": "犯",
+    "onyomi": "はん",
+    "kunyomi": "おかす",
+    "meaning": "crime",
+    "level": "N3",
+    "examples": ["犯罪", "犯す"]
+  },
+  {
+    "character": "必",
+    "onyomi": "ひつ",
+    "kunyomi": "かならず",
+    "meaning": "certain, inevitable",
+    "level": "N3",
+    "examples": ["必要", "必ず"]
+  },
+  {
+    "character": "石",
+    "onyomi": "せき",
+    "kunyomi": "いし",
+    "meaning": "stone",
+    "level": "N3",
+    "examples": ["石", "宝石"]
+  },
+  {
+    "character": "他",
+    "onyomi": "た",
+    "kunyomi": "ほか",
+    "meaning": "other",
+    "level": "N3",
+    "examples": ["他人", "その他"]
+  },
+  {
+    "character": "打",
+    "onyomi": "だ",
+    "kunyomi": "うつ",
+    "meaning": "hit, strike",
+    "level": "N3",
+    "examples": ["打つ", "打者"]
+  },
+  {
+    "character": "加",
+    "onyomi": "か",
+    "kunyomi": "くわえる",
+    "meaning": "add",
+    "level": "N3",
+    "examples": ["参加", "加える"]
+  },
+  {
+    "character": "可",
+    "onyomi": "か",
+    "kunyomi": "",
+    "meaning": "possible",
+    "level": "N3",
+    "examples": ["可能", "可決"]
+  },
+  {
+    "character": "央",
+    "onyomi": "おう",
+    "kunyomi": "",
+    "meaning": "center",
+    "level": "N3",
+    "examples": ["中央", "中央駅"]
+  },
+  {
+    "character": "刊",
+    "onyomi": "かん",
+    "kunyomi": "",
+    "meaning": "publish",
+    "level": "N3",
+    "examples": ["刊行", "週刊"]
+  },
+  {
+    "character": "玉",
+    "onyomi": "ぎょく",
+    "kunyomi": "たま",
+    "meaning": "jewel, ball",
+    "level": "N3",
+    "examples": ["玉", "宝玉"]
+  },
+  {
+    "character": "旧",
+    "onyomi": "きゅう",
+    "kunyomi": "ふるい",
+    "meaning": "old, former",
+    "level": "N3",
+    "examples": ["旧正月", "旧友"]
+  },
+  {
+    "character": "号",
+    "onyomi": "ごう",
+    "kunyomi": "",
+    "meaning": "number, edition",
+    "level": "N3",
+    "examples": ["番号", "信号"]
+  },
+  {
+    "character": "皿",
+    "onyomi": "",
+    "kunyomi": "さら",
+    "meaning": "plate, dish",
+    "level": "N3",
+    "examples": ["皿", "灰皿"]
+  },
+  {
+    "character": "札",
+    "onyomi": "さつ",
+    "kunyomi": "ふだ",
+    "meaning": "tag, paper money",
+    "level": "N3",
+    "examples": ["札", "千円札"]
+  },
+  {
+    "character": "史",
+    "onyomi": "し",
+    "kunyomi": "",
+    "meaning": "history",
+    "level": "N3",
+    "examples": ["歴史", "史上"]
+  },
+  {
+    "character": "失",
+    "onyomi": "しつ",
+    "kunyomi": "うしなう",
+    "meaning": "lose",
+    "level": "N3",
+    "examples": ["失敗", "失う"]
+  },
+  {
+    "character": "示",
+    "onyomi": "じ",
+    "kunyomi": "しめす",
+    "meaning": "indicate, show",
+    "level": "N3",
+    "examples": ["表示", "示す"]
+  },
+  {
+    "character": "申",
+    "onyomi": "しん",
+    "kunyomi": "もうす",
+    "meaning": "say, report",
+    "level": "N3",
+    "examples": ["申す", "申し込み"]
+  },
+  {
+    "character": "礼",
+    "onyomi": "れい",
+    "kunyomi": "",
+    "meaning": "thanks, ceremony",
+    "level": "N3",
+    "examples": ["礼", "失礼"]
+  },
+  {
+    "character": "令",
+    "onyomi": "れい",
+    "kunyomi": "",
+    "meaning": "command, order",
+    "level": "N3",
+    "examples": ["命令", "令和"]
+  },
+  {
+    "character": "列",
+    "onyomi": "れつ",
+    "kunyomi": "",
+    "meaning": "line, row",
+    "level": "N3",
+    "examples": ["列車", "行列"]
+  },
+  {
+    "character": "老",
+    "onyomi": "ろう",
+    "kunyomi": "おいる",
+    "meaning": "old, aged",
+    "level": "N3",
+    "examples": ["老人", "老いる"]
+  },
+  {
+    "character": "式",
+    "onyomi": "しき",
+    "kunyomi": "",
+    "meaning": "ceremony, formula",
+    "level": "N3",
+    "examples": ["式", "形式"]
+  },
+  {
+    "character": "州",
+    "onyomi": "しゅう",
+    "kunyomi": "",
+    "meaning": "state, province",
+    "level": "N3",
+    "examples": ["州", "本州"]
+  },
+  {
+    "character": "寺",
+    "onyomi": "じ",
+    "kunyomi": "てら",
+    "meaning": "temple",
+    "level": "N3",
+    "examples": ["寺院", "金閣寺"]
+  },
+  {
+    "character": "次",
+    "onyomi": "じ",
+    "kunyomi": "つぎ",
+    "meaning": "next",
+    "level": "N3",
+    "examples": ["次", "目次"]
+  },
+  {
+    "character": "守",
+    "onyomi": "しゅ",
+    "kunyomi": "まもる",
+    "meaning": "protect, guard",
+    "level": "N3",
+    "examples": ["守る", "守衛"]
+  },
+  {
+    "character": "糸",
+    "onyomi": "し",
+    "kunyomi": "いと",
+    "meaning": "thread",
+    "level": "N3",
+    "examples": ["糸", "毛糸"]
+  },
+  {
+    "character": "在",
+    "onyomi": "ざい",
+    "kunyomi": "",
+    "meaning": "exist, be",
+    "level": "N3",
+    "examples": ["存在", "現在"]
+  },
+  {
+    "character": "再",
+    "onyomi": "さい",
+    "kunyomi": "ふたたび",
+    "meaning": "again, re-",
+    "level": "N3",
+    "examples": ["再生", "再び"]
+  },
+  {
+    "character": "向",
+    "onyomi": "こう",
+    "kunyomi": "むく",
+    "meaning": "face, toward",
+    "level": "N3",
+    "examples": ["向く", "方向"]
+  },
+  {
+    "character": "交",
+    "onyomi": "こう",
+    "kunyomi": "まじわる",
+    "meaning": "intersect, exchange",
+    "level": "N3",
+    "examples": ["交通", "交換"]
+  },
+  {
+    "character": "血",
+    "onyomi": "けつ",
+    "kunyomi": "ち",
+    "meaning": "blood",
+    "level": "N3",
+    "examples": ["血液", "出血"]
+  },
+  {
+    "character": "件",
+    "onyomi": "けん",
+    "kunyomi": "",
+    "meaning": "matter, case",
+    "level": "N3",
+    "examples": ["事件", "条件"]
+  },
+  {
+    "character": "共",
+    "onyomi": "きょう",
+    "kunyomi": "とも",
+    "meaning": "together, both",
+    "level": "N3",
+    "examples": ["共通", "共同"]
+  },
+  {
+    "character": "曲",
+    "onyomi": "きょく",
+    "kunyomi": "まがる",
+    "meaning": "bend, music",
+    "level": "N3",
+    "examples": ["曲がる", "曲"]
+  },
+  {
+    "character": "各",
+    "onyomi": "かく",
+    "kunyomi": "おのおの",
+    "meaning": "each",
+    "level": "N3",
+    "examples": ["各自", "各国"]
+  },
+  {
+    "character": "印",
+    "onyomi": "いん",
+    "kunyomi": "しるし",
+    "meaning": "mark, seal",
+    "level": "N3",
+    "examples": ["印", "印刷"]
+  },
+  {
+    "character": "因",
+    "onyomi": "いん",
+    "kunyomi": "よる",
+    "meaning": "cause, factor",
+    "level": "N3",
+    "examples": ["原因", "因果"]
+  },
+  {
+    "character": "羽",
+    "onyomi": "う",
+    "kunyomi": "はね",
+    "meaning": "feather, wing",
+    "level": "N3",
+    "examples": ["羽", "羽毛"]
+  },
+  {
+    "character": "団",
+    "onyomi": "だん",
+    "kunyomi": "",
+    "meaning": "group",
+    "level": "N3",
+    "examples": ["団体", "団地"]
+  },
+  {
+    "character": "竹",
+    "onyomi": "ちく",
+    "kunyomi": "たけ",
+    "meaning": "bamboo",
+    "level": "N3",
+    "examples": ["竹", "竹林"]
+  },
+  {
+    "character": "仲",
+    "onyomi": "ちゅう",
+    "kunyomi": "なか",
+    "meaning": "relationship",
+    "level": "N3",
+    "examples": ["仲間", "仲良し"]
+  },
+  {
+    "character": "虫",
+    "onyomi": "ちゅう",
+    "kunyomi": "むし",
+    "meaning": "insect",
+    "level": "N3",
+    "examples": ["虫", "昆虫"]
+  },
+  {
+    "character": "兆",
+    "onyomi": "ちょう",
+    "kunyomi": "きざす",
+    "meaning": "omen, trillion",
+    "level": "N3",
+    "examples": ["兆し", "兆候"]
+  },
+  {
+    "character": "伝",
+    "onyomi": "でん",
+    "kunyomi": "つたえる",
+    "meaning": "transmit, convey",
+    "level": "N3",
+    "examples": ["伝える", "伝統"]
+  },
+  {
+    "character": "当",
+    "onyomi": "とう",
+    "kunyomi": "あたる",
+    "meaning": "hit, appropriate",
+    "level": "N3",
+    "examples": ["当たる", "本当"]
+  },
+  {
+    "character": "成",
+    "onyomi": "せい",
+    "kunyomi": "なる",
+    "meaning": "become",
+    "level": "N3",
+    "examples": ["成功", "成長"]
+  },
+  {
+    "character": "全",
+    "onyomi": "ぜん",
+    "kunyomi": "まったく",
+    "meaning": "whole, all",
+    "level": "N3",
+    "examples": ["全部", "完全"]
+  },
+  {
+    "character": "争",
+    "onyomi": "そう",
+    "kunyomi": "あらそう",
+    "meaning": "compete, dispute",
+    "level": "N3",
+    "examples": ["争う", "競争"]
+  },
+  {
+    "character": "任",
+    "onyomi": "にん",
+    "kunyomi": "まかせる",
+    "meaning": "responsibility, duty",
+    "level": "N3",
+    "examples": ["任務", "責任"]
+  },
+  {
+    "character": "米",
+    "onyomi": "べい",
+    "kunyomi": "こめ",
+    "meaning": "rice, America",
+    "level": "N3",
+    "examples": ["米", "米国"]
+  },
+  {
+    "character": "両",
+    "onyomi": "りょう",
+    "kunyomi": "",
+    "meaning": "both",
+    "level": "N3",
+    "examples": ["両親", "両方"]
+  },
+  {
+    "character": "利",
+    "onyomi": "り",
+    "kunyomi": "きく",
+    "meaning": "benefit, profit",
+    "level": "N3",
+    "examples": ["便利", "利益"]
+  },
+  {
+    "character": "余",
+    "onyomi": "よ",
+    "kunyomi": "あまる",
+    "meaning": "surplus, extra",
+    "level": "N3",
+    "examples": ["余裕", "余る"]
+  },
+  {
+    "character": "防",
+    "onyomi": "ぼう",
+    "kunyomi": "ふせぐ",
+    "meaning": "defend, prevent",
+    "level": "N3",
+    "examples": ["防ぐ", "防止"]
+  },
+  {
+    "character": "役",
+    "onyomi": "やく",
+    "kunyomi": "",
+    "meaning": "role, duty",
+    "level": "N3",
+    "examples": ["役に立つ", "役割"]
+  },
+  {
+    "character": "返",
+    "onyomi": "へん",
+    "kunyomi": "かえす",
+    "meaning": "return",
+    "level": "N3",
+    "examples": ["返す", "返信"]
+  },
+  {
+    "character": "判",
+    "onyomi": "はん",
+    "kunyomi": "",
+    "meaning": "judge, decision",
+    "level": "N3",
+    "examples": ["判定", "判断"]
+  },
+  {
+    "character": "臣",
+    "onyomi": "しん",
+    "kunyomi": "",
+    "meaning": "subject, retainer",
+    "level": "N3",
+    "examples": ["臣民", "大臣"]
+  },
+  {
+    "character": "身",
+    "onyomi": "しん",
+    "kunyomi": "み",
+    "meaning": "body, self",
+    "level": "N3",
+    "examples": ["身", "自身"]
+  },
+  {
+    "character": "折",
+    "onyomi": "せつ",
+    "kunyomi": "おる",
+    "meaning": "fold, break",
+    "level": "N3",
+    "examples": ["折る", "骨折"]
+  },
+  {
+    "character": "努",
+    "onyomi": "ど",
+    "kunyomi": "つとめる",
+    "meaning": "effort, endeavor",
+    "level": "N3",
+    "examples": ["努力", "努める"]
+  },
+  {
+    "character": "投",
+    "onyomi": "とう",
+    "kunyomi": "なげる",
+    "meaning": "throw, invest",
+    "level": "N3",
+    "examples": ["投げる", "投資"]
+  },
+  {
+    "character": "対",
+    "onyomi": "たい",
+    "kunyomi": "",
+    "meaning": "opposite, against",
+    "level": "N3",
+    "examples": ["対話", "反対"]
+  },
+  {
+    "character": "束",
+    "onyomi": "そく",
+    "kunyomi": "たば",
+    "meaning": "bundle",
+    "level": "N3",
+    "examples": ["束", "約束"]
+  },
+  {
+    "character": "谷",
+    "onyomi": "こく",
+    "kunyomi": "たに",
+    "meaning": "valley",
+    "level": "N3",
+    "examples": ["谷", "渓谷"]
+  },
+  {
+    "character": "位",
+    "onyomi": "い",
+    "kunyomi": "くらい",
+    "meaning": "rank, position",
+    "level": "N3",
+    "examples": ["位置", "単位"]
+  },
+  {
+    "character": "囲",
+    "onyomi": "い",
+    "kunyomi": "かこむ",
+    "meaning": "surround",
+    "level": "N3",
+    "examples": ["囲む", "周囲"]
+  },
+  {
+    "character": "完",
+    "onyomi": "かん",
+    "kunyomi": "",
+    "meaning": "complete",
+    "level": "N3",
+    "examples": ["完成", "完全"]
+  },
+  {
+    "character": "角",
+    "onyomi": "かく",
+    "kunyomi": "かど",
+    "meaning": "corner, angle",
+    "level": "N3",
+    "examples": ["角", "三角"]
+  },
+  {
+    "character": "快",
+    "onyomi": "かい",
+    "kunyomi": "こころよい",
+    "meaning": "pleasant",
+    "level": "N3",
+    "examples": ["快適", "愉快"]
+  },
+  {
+    "character": "改",
+    "onyomi": "かい",
+    "kunyomi": "あらためる",
+    "meaning": "change, renew",
+    "level": "N3",
+    "examples": ["改める", "改善"]
+  },
+  {
+    "character": "技",
+    "onyomi": "ぎ",
+    "kunyomi": "わざ",
+    "meaning": "skill, technique",
+    "level": "N3",
+    "examples": ["技術", "特技"]
+  },
+  {
+    "character": "局",
+    "onyomi": "きょく",
+    "kunyomi": "",
+    "meaning": "office, bureau",
+    "level": "N3",
+    "examples": ["郵便局", "局面"]
+  },
+  {
+    "character": "君",
+    "onyomi": "くん",
+    "kunyomi": "きみ",
+    "meaning": "you, ruler",
+    "level": "N3",
+    "examples": ["君", "諸君"]
+  },
+  {
+    "character": "均",
+    "onyomi": "きん",
+    "kunyomi": "",
+    "meaning": "equal, uniform",
+    "level": "N3",
+    "examples": ["平均", "均等"]
+  },
+  {
+    "character": "形",
+    "onyomi": "けい",
+    "kunyomi": "かたち",
+    "meaning": "shape, form",
+    "level": "N3",
+    "examples": ["形", "形式"]
+  },
+  {
+    "character": "決",
+    "onyomi": "けつ",
+    "kunyomi": "きめる",
+    "meaning": "decide",
+    "level": "N3",
+    "examples": ["決める", "決定"]
+  },
+  {
+    "character": "芸",
+    "onyomi": "げい",
+    "kunyomi": "",
+    "meaning": "art, craft",
+    "level": "N3",
+    "examples": ["芸術", "芸能"]
+  },
+  {
+    "character": "求",
+    "onyomi": "きゅう",
+    "kunyomi": "もとめる",
+    "meaning": "request, demand",
+    "level": "N3",
+    "examples": ["要求", "求める"]
+  },
+  {
+    "character": "希",
+    "onyomi": "き",
+    "kunyomi": "",
+    "meaning": "hope, rare",
+    "level": "N3",
+    "examples": ["希望", "希少"]
+  },
+  {
+    "character": "告",
+    "onyomi": "こく",
+    "kunyomi": "つげる",
+    "meaning": "announce, inform",
+    "level": "N3",
+    "examples": ["報告", "告げる"]
+  },
+  {
+    "character": "材",
+    "onyomi": "ざい",
+    "kunyomi": "",
+    "meaning": "material",
+    "level": "N3",
+    "examples": ["材料", "素材"]
+  },
+  {
+    "character": "坂",
+    "onyomi": "はん",
+    "kunyomi": "さか",
+    "meaning": "slope",
+    "level": "N3",
+    "examples": ["坂道", "急坂"]
+  },
+  {
+    "character": "似",
+    "onyomi": "じ",
+    "kunyomi": "にる",
+    "meaning": "resemble",
+    "level": "N3",
+    "examples": ["似る", "類似"]
+  },
+  {
+    "character": "児",
+    "onyomi": "じ",
+    "kunyomi": "",
+    "meaning": "child",
+    "level": "N3",
+    "examples": ["児童", "育児"]
+  },
+  {
+    "character": "状",
+    "onyomi": "じょう",
+    "kunyomi": "",
+    "meaning": "condition, form",
+    "level": "N3",
+    "examples": ["状態", "状況"]
+  },
+  {
+    "character": "初",
+    "onyomi": "しょ",
+    "kunyomi": "はじめ",
+    "meaning": "beginning",
+    "level": "N3",
+    "examples": ["最初", "初めて"]
+  },
+  {
+    "character": "助",
+    "onyomi": "じょ",
+    "kunyomi": "たすける",
+    "meaning": "help",
+    "level": "N3",
+    "examples": ["助ける", "助手"]
+  },
+  {
+    "character": "労",
+    "onyomi": "ろう",
+    "kunyomi": "",
+    "meaning": "labor, toil",
+    "level": "N3",
+    "examples": ["労働", "労力"]
+  },
+  {
+    "character": "冷",
+    "onyomi": "れい",
+    "kunyomi": "つめたい",
+    "meaning": "cold",
+    "level": "N3",
+    "examples": ["冷たい", "冷静"]
+  },
+  {
+    "character": "例",
+    "onyomi": "れい",
+    "kunyomi": "たとえる",
+    "meaning": "example",
+    "level": "N3",
+    "examples": ["例", "例外"]
+  },
+  {
+    "character": "和",
+    "onyomi": "わ",
+    "kunyomi": "やわらぐ",
+    "meaning": "harmony, peace",
+    "level": "N3",
+    "examples": ["平和", "和食"]
+  },
+  {
+    "character": "述",
+    "onyomi": "じゅつ",
+    "kunyomi": "のべる",
+    "meaning": "state, mention",
+    "level": "N3",
+    "examples": ["述べる", "記述"]
+  },
+  {
+    "character": "承",
+    "onyomi": "しょう",
+    "kunyomi": "うけたまわる",
+    "meaning": "receive, consent",
+    "level": "N3",
+    "examples": ["承知", "了承"]
+  },
+  {
+    "character": "招",
+    "onyomi": "しょう",
+    "kunyomi": "まねく",
+    "meaning": "invite",
+    "level": "N3",
+    "examples": ["招待", "招く"]
+  },
+  {
+    "character": "実",
+    "onyomi": "じつ",
+    "kunyomi": "み",
+    "meaning": "truth, reality",
+    "level": "N3",
+    "examples": ["実際", "事実"]
+  },
+  {
+    "character": "取",
+    "onyomi": "しゅ",
+    "kunyomi": "とる",
+    "meaning": "take",
+    "level": "N3",
+    "examples": ["取る", "取得"]
+  },
+  {
+    "character": "治",
+    "onyomi": "じ",
+    "kunyomi": "なおる",
+    "meaning": "govern, cure",
+    "level": "N3",
+    "examples": ["治る", "政治"]
+  },
+  {
+    "character": "受",
+    "onyomi": "じゅ",
+    "kunyomi": "うける",
+    "meaning": "receive",
+    "level": "N3",
+    "examples": ["受ける", "受験"]
+  },
+  {
+    "character": "周",
+    "onyomi": "しゅう",
+    "kunyomi": "まわり",
+    "meaning": "around",
+    "level": "N3",
+    "examples": ["周り", "周囲"]
+  },
+  {
+    "character": "妻",
+    "onyomi": "さい",
+    "kunyomi": "つま",
+    "meaning": "wife",
+    "level": "N3",
+    "examples": ["妻", "夫妻"]
+  },
+  {
+    "character": "参",
+    "onyomi": "さん",
+    "kunyomi": "まいる",
+    "meaning": "participate",
+    "level": "N3",
+    "examples": ["参加", "参考"]
+  },
+  {
+    "character": "枝",
+    "onyomi": "し",
+    "kunyomi": "えだ",
+    "meaning": "branch",
+    "level": "N3",
+    "examples": ["枝", "枝葉"]
+  },
+  {
+    "character": "刷",
+    "onyomi": "さつ",
+    "kunyomi": "する",
+    "meaning": "print",
+    "level": "N3",
+    "examples": ["印刷", "刷る"]
+  },
+  {
+    "character": "効",
+    "onyomi": "こう",
+    "kunyomi": "きく",
+    "meaning": "effect",
+    "level": "N3",
+    "examples": ["効果", "有効"]
+  },
+  {
+    "character": "幸",
+    "onyomi": "こう",
+    "kunyomi": "しあわせ",
+    "meaning": "happiness",
+    "level": "N3",
+    "examples": ["幸福", "幸せ"]
+  },
+  {
+    "character": "固",
+    "onyomi": "こ",
+    "kunyomi": "かたい",
+    "meaning": "hard, solid",
+    "level": "N3",
+    "examples": ["固い", "固体"]
+  },
+  {
+    "character": "季",
+    "onyomi": "き",
+    "kunyomi": "",
+    "meaning": "season",
+    "level": "N3",
+    "examples": ["季節", "四季"]
+  },
+  {
+    "character": "岸",
+    "onyomi": "がん",
+    "kunyomi": "きし",
+    "meaning": "shore, coast",
+    "level": "N3",
+    "examples": ["海岸", "岸"]
+  },
+  {
+    "character": "岩",
+    "onyomi": "がん",
+    "kunyomi": "いわ",
+    "meaning": "rock",
+    "level": "N3",
+    "examples": ["岩", "岩石"]
+  },
+  {
+    "character": "泣",
+    "onyomi": "きゅう",
+    "kunyomi": "なく",
+    "meaning": "cry",
+    "level": "N3",
+    "examples": ["泣く", "号泣"]
+  },
+  {
+    "character": "協",
+    "onyomi": "きょう",
+    "kunyomi": "",
+    "meaning": "cooperate",
+    "level": "N3",
+    "examples": ["協力", "協調"]
+  },
+  {
+    "character": "居",
+    "onyomi": "きょ",
+    "kunyomi": "いる",
+    "meaning": "reside",
+    "level": "N3",
+    "examples": ["居る", "居住"]
+  },
+  {
+    "character": "苦",
+    "onyomi": "く",
+    "kunyomi": "くるしい",
+    "meaning": "suffering",
+    "level": "N3",
+    "examples": ["苦しい", "苦労"]
+  },
+  {
+    "character": "具",
+    "onyomi": "ぐ",
+    "kunyomi": "",
+    "meaning": "tool",
+    "level": "N3",
+    "examples": ["道具", "家具"]
+  },
+  {
+    "character": "果",
+    "onyomi": "か",
+    "kunyomi": "はたす",
+    "meaning": "fruit, achieve",
+    "level": "N3",
+    "examples": ["果物", "成果"]
+  },
+  {
+    "character": "河",
+    "onyomi": "か",
+    "kunyomi": "かわ",
+    "meaning": "river",
+    "level": "N3",
+    "examples": ["河川", "河"]
+  },
+  {
+    "character": "官",
+    "onyomi": "かん",
+    "kunyomi": "",
+    "meaning": "government official",
+    "level": "N3",
+    "examples": ["官僚", "警官"]
+  },
+  {
+    "character": "委",
+    "onyomi": "い",
+    "kunyomi": "ゆだねる",
+    "meaning": "committee, entrust",
+    "level": "N3",
+    "examples": ["委員", "委ねる"]
+  },
+  {
+    "character": "易",
+    "onyomi": "い",
+    "kunyomi": "やさしい",
+    "meaning": "easy",
+    "level": "N3",
+    "examples": ["容易", "易しい"]
+  },
+  {
+    "character": "育",
+    "onyomi": "いく",
+    "kunyomi": "そだつ",
+    "meaning": "raise, bring up",
+    "level": "N3",
+    "examples": ["育てる", "教育"]
+  },
+  {
+    "character": "泳",
+    "onyomi": "えい",
+    "kunyomi": "およぐ",
+    "meaning": "swim",
+    "level": "N3",
+    "examples": ["泳ぐ", "水泳"]
+  },
+  {
+    "character": "直",
+    "onyomi": "ちょく",
+    "kunyomi": "なおす",
+    "meaning": "straight, fix",
+    "level": "N3",
+    "examples": ["直接", "直す"]
+  },
+  {
+    "character": "定",
+    "onyomi": "てい",
+    "kunyomi": "さだめる",
+    "meaning": "decide, establish",
+    "level": "N3",
+    "examples": ["決定", "定める"]
+  },
+  {
+    "character": "底",
+    "onyomi": "てい",
+    "kunyomi": "そこ",
+    "meaning": "bottom",
+    "level": "N3",
+    "examples": ["海底", "底"]
+  },
+  {
+    "character": "的",
+    "onyomi": "てき",
+    "kunyomi": "まと",
+    "meaning": "target",
+    "level": "N3",
+    "examples": ["目的", "的"]
+  },
+  {
+    "character": "性",
+    "onyomi": "せい",
+    "kunyomi": "",
+    "meaning": "nature, gender",
+    "level": "N3",
+    "examples": ["性別", "性格"]
+  },
+  {
+    "character": "昔",
+    "onyomi": "せき",
+    "kunyomi": "むかし",
+    "meaning": "long ago",
+    "level": "N3",
+    "examples": ["昔", "大昔"]
+  },
+  {
+    "character": "制",
+    "onyomi": "せい",
+    "kunyomi": "",
+    "meaning": "system, control",
+    "level": "N3",
+    "examples": ["制度", "制限"]
+  },
+  {
+    "character": "卒",
+    "onyomi": "そつ",
+    "kunyomi": "",
+    "meaning": "graduate",
+    "level": "N3",
+    "examples": ["卒業", "新卒"]
+  },
+  {
+    "character": "非",
+    "onyomi": "ひ",
+    "kunyomi": "",
+    "meaning": "non-, negative",
+    "level": "N3",
+    "examples": ["非常", "非行"]
+  },
+  {
+    "character": "波",
+    "onyomi": "は",
+    "kunyomi": "なみ",
+    "meaning": "wave",
+    "level": "N3",
+    "examples": ["波", "津波"]
+  },
+  {
+    "character": "板",
+    "onyomi": "はん",
+    "kunyomi": "いた",
+    "meaning": "board, plank",
+    "level": "N3",
+    "examples": ["板", "看板"]
+  },
+  {
+    "character": "版",
+    "onyomi": "はん",
+    "kunyomi": "",
+    "meaning": "edition, printing",
+    "level": "N3",
+    "examples": ["出版", "新版"]
+  },
+  {
+    "character": "念",
+    "onyomi": "ねん",
+    "kunyomi": "",
+    "meaning": "thought, wish",
+    "level": "N3",
+    "examples": ["記念", "念願"]
+  },
+  {
+    "character": "武",
+    "onyomi": "ぶ",
+    "kunyomi": "",
+    "meaning": "military, warrior",
+    "level": "N3",
+    "examples": ["武士", "武力"]
+  },
+  {
+    "character": "表",
+    "onyomi": "ひょう",
+    "kunyomi": "おもて",
+    "meaning": "surface, express",
+    "level": "N3",
+    "examples": ["表", "発表"]
+  },
+  {
+    "character": "命",
+    "onyomi": "めい",
+    "kunyomi": "いのち",
+    "meaning": "life, command",
+    "level": "N3",
+    "examples": ["命", "命令"]
+  },
+  {
+    "character": "府",
+    "onyomi": "ふ",
+    "kunyomi": "",
+    "meaning": "government, prefecture",
+    "level": "N3",
+    "examples": ["政府", "大阪府"]
+  },
+  {
+    "character": "放",
+    "onyomi": "ほう",
+    "kunyomi": "はなす",
+    "meaning": "release, let go",
+    "level": "N3",
+    "examples": ["放送", "放す"]
+  },
+  {
+    "character": "法",
+    "onyomi": "ほう",
+    "kunyomi": "",
+    "meaning": "law, method",
+    "level": "N3",
+    "examples": ["法律", "方法"]
+  },
+  {
+    "character": "油",
+    "onyomi": "ゆ",
+    "kunyomi": "あぶら",
+    "meaning": "oil",
+    "level": "N3",
+    "examples": ["石油", "油"]
+  },
+  {
+    "character": "勇",
+    "onyomi": "ゆう",
+    "kunyomi": "いさむ",
+    "meaning": "bravery, courage",
+    "level": "N3",
+    "examples": ["勇気", "勇敢"]
+  },
+  {
+    "character": "要",
+    "onyomi": "よう",
+    "kunyomi": "いる",
+    "meaning": "need, essential",
+    "level": "N3",
+    "examples": ["必要", "要求"]
+  },
+  {
+    "character": "負",
+    "onyomi": "ふ",
+    "kunyomi": "まける",
+    "meaning": "lose, bear",
+    "level": "N3",
+    "examples": ["負ける", "負担"]
+  },
+  {
+    "character": "迷",
+    "onyomi": "めい",
+    "kunyomi": "まよう",
+    "meaning": "get lost",
+    "level": "N3",
+    "examples": ["迷う", "迷惑"]
+  },
+  {
+    "character": "約",
+    "onyomi": "やく",
+    "kunyomi": "",
+    "meaning": "promise, approximately",
+    "level": "N3",
+    "examples": ["約束", "予約"]
+  },
+  {
+    "character": "面",
+    "onyomi": "めん",
+    "kunyomi": "おも",
+    "meaning": "face, surface",
+    "level": "N3",
+    "examples": ["面接", "表面"]
+  },
+  {
+    "character": "変",
+    "onyomi": "へん",
+    "kunyomi": "かわる",
+    "meaning": "change, strange",
+    "level": "N3",
+    "examples": ["変わる", "変化"]
+  },
+  {
+    "character": "飛",
+    "onyomi": "ひ",
+    "kunyomi": "とぶ",
+    "meaning": "fly",
+    "level": "N3",
+    "examples": ["飛ぶ", "飛行機"]
+  },
+  {
+    "character": "美",
+    "onyomi": "び",
+    "kunyomi": "うつくしい",
+    "meaning": "beauty",
+    "level": "N3",
+    "examples": ["美しい", "美術"]
+  },
+  {
+    "character": "独",
+    "onyomi": "どく",
+    "kunyomi": "",
+    "meaning": "alone, independent",
+    "level": "N3",
+    "examples": ["独立", "独身"]
+  },
+  {
+    "character": "則",
+    "onyomi": "そく",
+    "kunyomi": "",
+    "meaning": "rule, law",
+    "level": "N3",
+    "examples": ["規則", "法則"]
+  },
+  {
+    "character": "相",
+    "onyomi": "そう",
+    "kunyomi": "あい",
+    "meaning": "mutual, minister",
+    "level": "N3",
+    "examples": ["相談", "相手"]
+  },
+  {
+    "character": "草",
+    "onyomi": "そう",
+    "kunyomi": "くさ",
+    "meaning": "grass",
+    "level": "N3",
+    "examples": ["草", "草原"]
+  },
+  {
+    "character": "祖",
+    "onyomi": "そ",
+    "kunyomi": "",
+    "meaning": "ancestor",
+    "level": "N3",
+    "examples": ["祖父", "先祖"]
+  },
+  {
+    "character": "信",
+    "onyomi": "しん",
+    "kunyomi": "",
+    "meaning": "trust, faith",
+    "level": "N3",
+    "examples": ["信じる", "信用"]
+  },
+  {
+    "character": "政",
+    "onyomi": "せい",
+    "kunyomi": "まつりごと",
+    "meaning": "government, politics",
+    "level": "N3",
+    "examples": ["政治", "政党"]
+  },
+  {
+    "character": "星",
+    "onyomi": "せい",
+    "kunyomi": "ほし",
+    "meaning": "star",
+    "level": "N3",
+    "examples": ["星", "衛星"]
+  },
+  {
+    "character": "点",
+    "onyomi": "てん",
+    "kunyomi": "",
+    "meaning": "point, mark",
+    "level": "N3",
+    "examples": ["点", "得点"]
+  },
+  {
+    "character": "追",
+    "onyomi": "つい",
+    "kunyomi": "おう",
+    "meaning": "chase, pursue",
+    "level": "N3",
+    "examples": ["追う", "追加"]
+  },
+  {
+    "character": "単",
+    "onyomi": "たん",
+    "kunyomi": "",
+    "meaning": "simple, single",
+    "level": "N3",
+    "examples": ["単語", "単純"]
+  },
+  {
+    "character": "炭",
+    "onyomi": "たん",
+    "kunyomi": "すみ",
+    "meaning": "charcoal, coal",
+    "level": "N3",
+    "examples": ["石炭", "炭火"]
+  },
+  {
+    "character": "退",
+    "onyomi": "たい",
+    "kunyomi": "しりぞく",
+    "meaning": "retreat, withdraw",
+    "level": "N3",
+    "examples": ["退職", "退く"]
+  },
+  {
+    "character": "栄",
+    "onyomi": "えい",
+    "kunyomi": "さかえる",
+    "meaning": "prosper, flourish",
+    "level": "N3",
+    "examples": ["栄える", "栄光"]
+  },
+  {
+    "character": "科",
+    "onyomi": "か",
+    "kunyomi": "",
+    "meaning": "course, department",
+    "level": "N3",
+    "examples": ["科学", "教科書"]
+  },
+  {
+    "character": "活",
+    "onyomi": "かつ",
+    "kunyomi": "いきる",
+    "meaning": "live, activity",
+    "level": "N3",
+    "examples": ["生活", "活用"]
+  },
+  {
+    "character": "胃",
+    "onyomi": "い",
+    "kunyomi": "",
+    "meaning": "stomach",
+    "level": "N3",
+    "examples": ["胃", "胃腸"]
+  },
+  {
+    "character": "級",
+    "onyomi": "きゅう",
+    "kunyomi": "",
+    "meaning": "rank, grade",
+    "level": "N3",
+    "examples": ["高級", "進級"]
+  },
+  {
+    "character": "軍",
+    "onyomi": "ぐん",
+    "kunyomi": "",
+    "meaning": "army, military",
+    "level": "N3",
+    "examples": ["軍隊", "空軍"]
+  },
+  {
+    "character": "係",
+    "onyomi": "けい",
+    "kunyomi": "かかり",
+    "meaning": "person in charge, connection",
+    "level": "N3",
+    "examples": ["係", "関係"]
+  },
+  {
+    "character": "型",
+    "onyomi": "けい",
+    "kunyomi": "かた",
+    "meaning": "model, type",
+    "level": "N3",
+    "examples": ["大型", "型式"]
+  },
+  {
+    "character": "客",
+    "onyomi": "きゃく",
+    "kunyomi": "",
+    "meaning": "guest, customer",
+    "level": "N3",
+    "examples": ["お客さん", "乗客"]
+  },
+  {
+    "character": "逆",
+    "onyomi": "ぎゃく",
+    "kunyomi": "さか",
+    "meaning": "reverse, opposite",
+    "level": "N3",
+    "examples": ["逆", "逆転"]
+  },
+  {
+    "character": "限",
+    "onyomi": "げん",
+    "kunyomi": "かぎる",
+    "meaning": "limit",
+    "level": "N3",
+    "examples": ["限る", "制限"]
+  },
+  {
+    "character": "厚",
+    "onyomi": "こう",
+    "kunyomi": "あつい",
+    "meaning": "thick",
+    "level": "N3",
+    "examples": ["厚い", "厚情"]
+  },
+  {
+    "character": "指",
+    "onyomi": "し",
+    "kunyomi": "ゆび",
+    "meaning": "finger, point",
+    "level": "N3",
+    "examples": ["指", "指示"]
+  },
+  {
+    "character": "昨",
+    "onyomi": "さく",
+    "kunyomi": "",
+    "meaning": "yesterday",
+    "level": "N3",
+    "examples": ["昨日", "昨年"]
+  },
+  {
+    "character": "祝",
+    "onyomi": "しゅく",
+    "kunyomi": "いわう",
+    "meaning": "celebrate",
+    "level": "N3",
+    "examples": ["祝う", "祝日"]
+  },
+  {
+    "character": "神",
+    "onyomi": "しん",
+    "kunyomi": "かみ",
+    "meaning": "god, divine",
+    "level": "N3",
+    "examples": ["神", "神社"]
+  },
+  {
+    "character": "査",
+    "onyomi": "さ",
+    "kunyomi": "",
+    "meaning": "investigate",
+    "level": "N3",
+    "examples": ["調査", "検査"]
+  },
+  {
+    "character": "省",
+    "onyomi": "しょう",
+    "kunyomi": "はぶく",
+    "meaning": "omit, reflect on",
+    "level": "N3",
+    "examples": ["省略", "反省"]
+  },
+  {
+    "character": "酒",
+    "onyomi": "しゅ",
+    "kunyomi": "さけ",
+    "meaning": "alcohol",
+    "level": "N3",
+    "examples": ["日本酒", "酒屋"]
+  },
+  {
+    "character": "笑",
+    "onyomi": "しょう",
+    "kunyomi": "わらう",
+    "meaning": "laugh, smile",
+    "level": "N3",
+    "examples": ["笑う", "笑顔"]
+  },
+  {
+    "character": "消",
+    "onyomi": "しょう",
+    "kunyomi": "きえる",
+    "meaning": "extinguish, disappear",
+    "level": "N3",
+    "examples": ["消す", "消火"]
+  },
+  {
+    "character": "師",
+    "onyomi": "し",
+    "kunyomi": "",
+    "meaning": "teacher, master",
+    "level": "N3",
+    "examples": ["教師", "医師"]
+  },
+  {
+    "character": "財",
+    "onyomi": "ざい",
+    "kunyomi": "",
+    "meaning": "wealth, assets",
+    "level": "N3",
+    "examples": ["財産", "財務"]
+  },
+  {
+    "character": "殺",
+    "onyomi": "さつ",
+    "kunyomi": "ころす",
+    "meaning": "kill",
+    "level": "N3",
+    "examples": ["殺す", "殺人"]
+  },
+  {
+    "character": "差",
+    "onyomi": "さ",
+    "kunyomi": "さす",
+    "meaning": "difference, distinction",
+    "level": "N3",
+    "examples": ["差別", "交差点"]
+  },
+  {
+    "character": "残",
+    "onyomi": "ざん",
+    "kunyomi": "のこる",
+    "meaning": "remain, leftover",
+    "level": "N3",
+    "examples": ["残る", "残業"]
+  },
+  {
+    "character": "航",
+    "onyomi": "こう",
+    "kunyomi": "",
+    "meaning": "navigate, sail",
+    "level": "N3",
+    "examples": ["航空", "航海"]
+  },
+  {
+    "character": "根",
+    "onyomi": "こん",
+    "kunyomi": "ね",
+    "meaning": "root",
+    "level": "N3",
+    "examples": ["根", "根本"]
+  },
+  {
+    "character": "個",
+    "onyomi": "こ",
+    "kunyomi": "",
+    "meaning": "individual, counter for articles",
+    "level": "N3",
+    "examples": ["個人", "個別"]
+  },
+  {
+    "character": "候",
+    "onyomi": "こう",
+    "kunyomi": "そうろう",
+    "meaning": "climate, season",
+    "level": "N3",
+    "examples": ["候補", "天候"]
+  },
+  {
+    "character": "庫",
+    "onyomi": "こ",
+    "kunyomi": "",
+    "meaning": "warehouse, storage",
+    "level": "N3",
+    "examples": ["倉庫", "冷蔵庫"]
+  },
+  {
+    "character": "記",
+    "onyomi": "き",
+    "kunyomi": "しるす",
+    "meaning": "record, write",
+    "level": "N3",
+    "examples": ["日記", "記事"]
+  },
+  {
+    "character": "訓",
+    "onyomi": "くん",
+    "kunyomi": "",
+    "meaning": "instruction",
+    "level": "N3",
+    "examples": ["訓練", "教訓"]
+  },
+  {
+    "character": "害",
+    "onyomi": "がい",
+    "kunyomi": "",
+    "meaning": "harm, damage",
+    "level": "N3",
+    "examples": ["害", "災害"]
+  },
+  {
+    "character": "格",
+    "onyomi": "かく",
+    "kunyomi": "",
+    "meaning": "status, rank",
+    "level": "N3",
+    "examples": ["資格", "性格"]
+  },
+  {
+    "character": "荷",
+    "onyomi": "か",
+    "kunyomi": "に",
+    "meaning": "baggage, load",
+    "level": "N3",
+    "examples": ["荷物", "出荷"]
+  },
+  {
+    "character": "帯",
+    "onyomi": "たい",
+    "kunyomi": "おびる",
+    "meaning": "belt, zone",
+    "level": "N3",
+    "examples": ["地帯", "携帯"]
+  },
+  {
+    "character": "島",
+    "onyomi": "とう",
+    "kunyomi": "しま",
+    "meaning": "island",
+    "level": "N3",
+    "examples": ["島", "列島"]
+  },
+  {
+    "character": "庭",
+    "onyomi": "てい",
+    "kunyomi": "にわ",
+    "meaning": "garden",
+    "level": "N3",
+    "examples": ["庭", "家庭"]
+  },
+  {
+    "character": "徒",
+    "onyomi": "と",
+    "kunyomi": "",
+    "meaning": "follower, disciple",
+    "level": "N3",
+    "examples": ["生徒", "徒歩"]
+  },
+  {
+    "character": "席",
+    "onyomi": "せき",
+    "kunyomi": "",
+    "meaning": "seat",
+    "level": "N3",
+    "examples": ["座席", "出席"]
+  },
+  {
+    "character": "息",
+    "onyomi": "そく",
+    "kunyomi": "いき",
+    "meaning": "breath, son",
+    "level": "N3",
+    "examples": ["息", "休息"]
+  },
+  {
+    "character": "造",
+    "onyomi": "ぞう",
+    "kunyomi": "つくる",
+    "meaning": "make, create",
+    "level": "N3",
+    "examples": ["製造", "造る"]
+  },
+  {
+    "character": "孫",
+    "onyomi": "そん",
+    "kunyomi": "まご",
+    "meaning": "grandchild",
+    "level": "N3",
+    "examples": ["孫", "子孫"]
+  },
+  {
+    "character": "速",
+    "onyomi": "そく",
+    "kunyomi": "はやい",
+    "meaning": "fast",
+    "level": "N3",
+    "examples": ["速い", "速度"]
+  },
+  {
+    "character": "能",
+    "onyomi": "のう",
+    "kunyomi": "",
+    "meaning": "ability",
+    "level": "N3",
+    "examples": ["能力", "可能"]
+  },
+  {
+    "character": "配",
+    "onyomi": "はい",
+    "kunyomi": "くばる",
+    "meaning": "distribute, deliver",
+    "level": "N3",
+    "examples": ["配る", "配達"]
+  },
+  {
+    "character": "倍",
+    "onyomi": "ばい",
+    "kunyomi": "",
+    "meaning": "double",
+    "level": "N3",
+    "examples": ["倍", "倍率"]
+  },
+  {
+    "character": "破",
+    "onyomi": "は",
+    "kunyomi": "やぶる",
+    "meaning": "break, destroy",
+    "level": "N3",
+    "examples": ["破る", "破壊"]
+  },
+  {
+    "character": "馬",
+    "onyomi": "ば",
+    "kunyomi": "うま",
+    "meaning": "horse",
+    "level": "N3",
+    "examples": ["馬", "競馬"]
+  },
+  {
+    "character": "浴",
+    "onyomi": "よく",
+    "kunyomi": "あびる",
+    "meaning": "bathe",
+    "level": "N3",
+    "examples": ["浴びる", "入浴"]
+  },
+  {
+    "character": "容",
+    "onyomi": "よう",
+    "kunyomi": "",
+    "meaning": "contain, form",
+    "level": "N3",
+    "examples": ["内容", "容器"]
+  },
+  {
+    "character": "流",
+    "onyomi": "りゅう",
+    "kunyomi": "ながれる",
+    "meaning": "flow",
+    "level": "N3",
+    "examples": ["流れる", "流行"]
+  },
+  {
+    "character": "留",
+    "onyomi": "りゅう",
+    "kunyomi": "とめる",
+    "meaning": "stay, detain",
+    "level": "N3",
+    "examples": ["留学", "留守"]
+  },
+  {
+    "character": "連",
+    "onyomi": "れん",
+    "kunyomi": "つれる",
+    "meaning": "connect, take along",
+    "level": "N3",
+    "examples": ["連れて行く", "連絡"]
+  },
+  {
+    "character": "陸",
+    "onyomi": "りく",
+    "kunyomi": "",
+    "meaning": "land",
+    "level": "N3",
+    "examples": ["陸", "陸上"]
+  },
+  {
+    "character": "率",
+    "onyomi": "りつ",
+    "kunyomi": "ひきいる",
+    "meaning": "rate, lead",
+    "level": "N3",
+    "examples": ["率直", "成功率"]
+  },
+  {
+    "character": "略",
+    "onyomi": "りゃく",
+    "kunyomi": "",
+    "meaning": "abbreviation, strategy",
+    "level": "N3",
+    "examples": ["略す", "省略"]
+  },
+  {
+    "character": "望",
+    "onyomi": "ぼう",
+    "kunyomi": "のぞむ",
+    "meaning": "hope, desire",
+    "level": "N3",
+    "examples": ["希望", "望む"]
+  },
+  {
+    "character": "務",
+    "onyomi": "む",
+    "kunyomi": "つとめる",
+    "meaning": "duty, task",
+    "level": "N3",
+    "examples": ["事務", "務める"]
+  },
+  {
+    "character": "敗",
+    "onyomi": "はい",
+    "kunyomi": "やぶれる",
+    "meaning": "defeat, fail",
+    "level": "N3",
+    "examples": ["失敗", "敗れる"]
+  },
+  {
+    "character": "部",
+    "onyomi": "ぶ",
+    "kunyomi": "",
+    "meaning": "department, part",
+    "level": "N3",
+    "examples": ["部屋", "部長"]
+  },
+  {
+    "character": "副",
+    "onyomi": "ふく",
+    "kunyomi": "",
+    "meaning": "assistant, vice-",
+    "level": "N3",
+    "examples": ["副社長", "副作用"]
+  },
+  {
+    "character": "婦",
+    "onyomi": "ふ",
+    "kunyomi": "",
+    "meaning": "woman, wife",
+    "level": "N3",
+    "examples": ["主婦", "産婦人科"]
+  },
+  {
+    "character": "側",
+    "onyomi": "そく",
+    "kunyomi": "かわ",
+    "meaning": "side",
+    "level": "N3",
+    "examples": ["側", "側面"]
+  },
+  {
+    "character": "組",
+    "onyomi": "そ",
+    "kunyomi": "くむ",
+    "meaning": "assemble, group",
+    "level": "N3",
+    "examples": ["組み立てる", "番組"]
+  },
+  {
+    "character": "責",
+    "onyomi": "せき",
+    "kunyomi": "せめる",
+    "meaning": "blame, responsibility",
+    "level": "N3",
+    "examples": ["責任", "責める"]
+  },
+  {
+    "character": "接",
+    "onyomi": "せつ",
+    "kunyomi": "つぐ",
+    "meaning": "connect, contact",
+    "level": "N3",
+    "examples": ["接続", "面接"]
+  },
+  {
+    "character": "船",
+    "onyomi": "せん",
+    "kunyomi": "ふね",
+    "meaning": "ship, boat",
+    "level": "N3",
+    "examples": ["船", "客船"]
+  },
+  {
+    "character": "商",
+    "onyomi": "しょう",
+    "kunyomi": "あきなう",
+    "meaning": "commerce, trade",
+    "level": "N3",
+    "examples": ["商業", "商品"]
+  },
+  {
+    "character": "設",
+    "onyomi": "せつ",
+    "kunyomi": "もうける",
+    "meaning": "establish, set up",
+    "level": "N3",
+    "examples": ["設置", "設定"]
+  },
+  {
+    "character": "雪",
+    "onyomi": "せつ",
+    "kunyomi": "ゆき",
+    "meaning": "snow",
+    "level": "N3",
+    "examples": ["雪", "大雪"]
+  },
+  {
+    "character": "清",
+    "onyomi": "せい",
+    "kunyomi": "きよい",
+    "meaning": "clear, pure",
+    "level": "N3",
+    "examples": ["清潔", "清い"]
+  },
+  {
+    "character": "深",
+    "onyomi": "しん",
+    "kunyomi": "ふかい",
+    "meaning": "deep",
+    "level": "N3",
+    "examples": ["深い", "深夜"]
+  },
+  {
+    "character": "得",
+    "onyomi": "とく",
+    "kunyomi": "える",
+    "meaning": "gain, acquire",
+    "level": "N3",
+    "examples": ["得る", "所得"]
+  },
+  {
+    "character": "第",
+    "onyomi": "だい",
+    "kunyomi": "",
+    "meaning": "ordinal number prefix",
+    "level": "N3",
+    "examples": ["第一", "次第"]
+  },
+  {
+    "character": "停",
+    "onyomi": "てい",
+    "kunyomi": "とまる",
+    "meaning": "stop",
+    "level": "N3",
+    "examples": ["停止", "停車"]
+  },
+  {
+    "character": "断",
+    "onyomi": "だん",
+    "kunyomi": "ことわる",
+    "meaning": "cut off, refuse",
+    "level": "N3",
+    "examples": ["断る", "判断"]
+  },
+  {
+    "character": "貨",
+    "onyomi": "か",
+    "kunyomi": "",
+    "meaning": "goods, currency",
+    "level": "N3",
+    "examples": ["貨物", "通貨"]
+  },
+  {
+    "character": "液",
+    "onyomi": "えき",
+    "kunyomi": "",
+    "meaning": "liquid",
+    "level": "N3",
+    "examples": ["液体", "血液"]
+  },
+  {
+    "character": "移",
+    "onyomi": "い",
+    "kunyomi": "うつる",
+    "meaning": "move, shift",
+    "level": "N3",
+    "examples": ["移る", "移動"]
+  },
+  {
+    "character": "経",
+    "onyomi": "けい",
+    "kunyomi": "",
+    "meaning": "pass through, manage",
+    "level": "N3",
+    "examples": ["経済", "経験"]
+  },
+  {
+    "character": "規",
+    "onyomi": "き",
+    "kunyomi": "",
+    "meaning": "rule, standard",
+    "level": "N3",
+    "examples": ["規則", "規制"]
+  },
+  {
+    "character": "寄",
+    "onyomi": "き",
+    "kunyomi": "よる",
+    "meaning": "approach, donate",
+    "level": "N3",
+    "examples": ["寄付", "近寄る"]
+  },
+  {
+    "character": "許",
+    "onyomi": "きょ",
+    "kunyomi": "ゆるす",
+    "meaning": "permit, allow",
+    "level": "N3",
+    "examples": ["許す", "許可"]
+  },
+  {
+    "character": "球",
+    "onyomi": "きゅう",
+    "kunyomi": "たま",
+    "meaning": "ball",
+    "level": "N3",
+    "examples": ["地球", "野球"]
+  },
+  {
+    "character": "救",
+    "onyomi": "きゅう",
+    "kunyomi": "すくう",
+    "meaning": "save, rescue",
+    "level": "N3",
+    "examples": ["救う", "救急車"]
+  },
+  {
+    "character": "険",
+    "onyomi": "けん",
+    "kunyomi": "けわしい",
+    "meaning": "dangerous, steep",
+    "level": "N3",
+    "examples": ["危険", "険しい"]
+  },
+  {
+    "character": "現",
+    "onyomi": "げん",
+    "kunyomi": "あらわれる",
+    "meaning": "appear, present",
+    "level": "N3",
+    "examples": ["現在", "現れる"]
+  },
+  {
+    "character": "混",
+    "onyomi": "こん",
+    "kunyomi": "まぜる",
+    "meaning": "mix, confusion",
+    "level": "N3",
+    "examples": ["混ぜる", "混乱"]
+  },
+  {
+    "character": "祭",
+    "onyomi": "さい",
+    "kunyomi": "まつり",
+    "meaning": "festival",
+    "level": "N3",
+    "examples": ["祭り", "祭典"]
+  },
+  {
+    "character": "細",
+    "onyomi": "さい",
+    "kunyomi": "ほそい",
+    "meaning": "slender, fine",
+    "level": "N3",
+    "examples": ["細い", "詳細"]
+  },
+  {
+    "character": "術",
+    "onyomi": "じゅつ",
+    "kunyomi": "",
+    "meaning": "art, technique",
+    "level": "N3",
+    "examples": ["技術", "美術"]
+  },
+  {
+    "character": "宿",
+    "onyomi": "しゅく",
+    "kunyomi": "やど",
+    "meaning": "lodge, inn",
+    "level": "N3",
+    "examples": ["宿", "宿泊"]
+  },
+  {
+    "character": "章",
+    "onyomi": "しょう",
+    "kunyomi": "",
+    "meaning": "chapter, badge",
+    "level": "N3",
+    "examples": ["文章", "勲章"]
+  },
+  {
+    "character": "常",
+    "onyomi": "じょう",
+    "kunyomi": "つね",
+    "meaning": "usual, normal",
+    "level": "N3",
+    "examples": ["日常", "常識"]
+  },
+  {
+    "character": "情",
+    "onyomi": "じょう",
+    "kunyomi": "なさけ",
+    "meaning": "emotion, affection",
+    "level": "N3",
+    "examples": ["感情", "情報"]
+  },
+  {
+    "character": "植",
+    "onyomi": "しょく",
+    "kunyomi": "うえる",
+    "meaning": "plant",
+    "level": "N3",
+    "examples": ["植物", "植える"]
+  },
+  {
+    "character": "順",
+    "onyomi": "じゅん",
+    "kunyomi": "",
+    "meaning": "order, sequence",
+    "level": "N3",
+    "examples": ["順番", "順調"]
+  },
+  {
+    "character": "象",
+    "onyomi": "しょう",
+    "kunyomi": "",
+    "meaning": "elephant, image",
+    "level": "N3",
+    "examples": ["象", "印象"]
+  },
+  {
+    "character": "焼",
+    "onyomi": "しょう",
+    "kunyomi": "やく",
+    "meaning": "burn, bake",
+    "level": "N3",
+    "examples": ["焼く", "燃焼"]
+  },
+  {
+    "character": "勝",
+    "onyomi": "しょう",
+    "kunyomi": "かつ",
+    "meaning": "win, victory",
+    "level": "N3",
+    "examples": ["勝つ", "優勝"]
+  },
+  {
+    "character": "歯",
+    "onyomi": "し",
+    "kunyomi": "は",
+    "meaning": "tooth",
+    "level": "N3",
+    "examples": ["歯", "歯科"]
+  },
+  {
+    "character": "最",
+    "onyomi": "さい",
+    "kunyomi": "もっとも",
+    "meaning": "most",
+    "level": "N3",
+    "examples": ["最高", "最近"]
+  },
+  {
+    "character": "散",
+    "onyomi": "さん",
+    "kunyomi": "ちる",
+    "meaning": "scatter, disperse",
+    "level": "N3",
+    "examples": ["散歩", "解散"]
+  },
+  {
+    "character": "港",
+    "onyomi": "こう",
+    "kunyomi": "みなと",
+    "meaning": "harbor",
+    "level": "N3",
+    "examples": ["港", "空港"]
+  },
+  {
+    "character": "検",
+    "onyomi": "けん",
+    "kunyomi": "",
+    "meaning": "inspect, examine",
+    "level": "N3",
+    "examples": ["検査", "検討"]
+  },
+  {
+    "character": "湖",
+    "onyomi": "こ",
+    "kunyomi": "みずうみ",
+    "meaning": "lake",
+    "level": "N3",
+    "examples": ["湖", "琵琶湖"]
+  },
+  {
+    "character": "期",
+    "onyomi": "き",
+    "kunyomi": "",
+    "meaning": "period, term",
+    "level": "N3",
+    "examples": ["期間", "期待"]
+  },
+  {
+    "character": "喜",
+    "onyomi": "き",
+    "kunyomi": "よろこぶ",
+    "meaning": "rejoice, pleasure",
+    "level": "N3",
+    "examples": ["喜ぶ", "喜劇"]
+  },
+  {
+    "character": "結",
+    "onyomi": "けつ",
+    "kunyomi": "むすぶ",
+    "meaning": "tie, bind",
+    "level": "N3",
+    "examples": ["結ぶ", "結婚"]
+  },
+  {
+    "character": "景",
+    "onyomi": "けい",
+    "kunyomi": "",
+    "meaning": "scenery, view",
+    "level": "N3",
+    "examples": ["景色", "風景"]
+  },
+  {
+    "character": "給",
+    "onyomi": "きゅう",
+    "kunyomi": "",
+    "meaning": "salary, supply",
+    "level": "N3",
+    "examples": ["給料", "支給"]
+  },
+  {
+    "character": "雲",
+    "onyomi": "うん",
+    "kunyomi": "くも",
+    "meaning": "cloud",
+    "level": "N3",
+    "examples": ["雲", "曇天"]
+  },
+  {
+    "character": "営",
+    "onyomi": "えい",
+    "kunyomi": "いとなむ",
+    "meaning": "manage, conduct",
+    "level": "N3",
+    "examples": ["営業", "経営"]
+  },
+  {
+    "character": "温",
+    "onyomi": "おん",
+    "kunyomi": "あたたかい",
+    "meaning": "warm",
+    "level": "N3",
+    "examples": ["温かい", "温度"]
+  },
+  {
+    "character": "過",
+    "onyomi": "か",
+    "kunyomi": "すぎる",
+    "meaning": "pass, exceed",
+    "level": "N3",
+    "examples": ["過ぎる", "過去"]
+  },
+  {
+    "character": "絵",
+    "onyomi": "かい",
+    "kunyomi": "",
+    "meaning": "picture, painting",
+    "level": "N3",
+    "examples": ["絵", "絵画"]
+  },
+  {
+    "character": "階",
+    "onyomi": "かい",
+    "kunyomi": "",
+    "meaning": "floor, step",
+    "level": "N3",
+    "examples": ["階段", "段階"]
+  },
+  {
+    "character": "覚",
+    "onyomi": "かく",
+    "kunyomi": "おぼえる",
+    "meaning": "remember, awake",
+    "level": "N3",
+    "examples": ["覚える", "感覚"]
+  },
+  {
+    "character": "貯",
+    "onyomi": "ちょ",
+    "kunyomi": "",
+    "meaning": "savings, store",
+    "level": "N3",
+    "examples": ["貯金", "貯蔵"]
+  },
+  {
+    "character": "達",
+    "onyomi": "たつ",
+    "kunyomi": "",
+    "meaning": "reach, attain",
+    "level": "N3",
+    "examples": ["達成", "友達"]
+  },
+  {
+    "character": "測",
+    "onyomi": "そく",
+    "kunyomi": "はかる",
+    "meaning": "measure",
+    "level": "N3",
+    "examples": ["測る", "予測"]
+  },
+  {
+    "character": "童",
+    "onyomi": "どう",
+    "kunyomi": "",
+    "meaning": "child",
+    "level": "N3",
+    "examples": ["童話", "児童"]
+  },
+  {
+    "character": "等",
+    "onyomi": "とう",
+    "kunyomi": "ひとしい",
+    "meaning": "equal, class",
+    "level": "N3",
+    "examples": ["平等", "高等"]
+  },
+  {
+    "character": "湯",
+    "onyomi": "とう",
+    "kunyomi": "ゆ",
+    "meaning": "hot water",
+    "level": "N3",
+    "examples": ["お湯", "温湯"]
+  },
+  {
+    "character": "登",
+    "onyomi": "とう",
+    "kunyomi": "のぼる",
+    "meaning": "climb",
+    "level": "N3",
+    "examples": ["登る", "登山"]
+  },
+  {
+    "character": "程",
+    "onyomi": "てい",
+    "kunyomi": "ほど",
+    "meaning": "degree, extent",
+    "level": "N3",
+    "examples": ["程度", "過程"]
+  },
+  {
+    "character": "絶",
+    "onyomi": "ぜつ",
+    "kunyomi": "たえる",
+    "meaning": "discontinue, cut off",
+    "level": "N3",
+    "examples": ["絶対", "絶える"]
+  },
+  {
+    "character": "然",
+    "onyomi": "ぜん",
+    "kunyomi": "",
+    "meaning": "so, nature",
+    "level": "N3",
+    "examples": ["自然", "当然"]
+  },
+  {
+    "character": "富",
+    "onyomi": "ふ",
+    "kunyomi": "とみ",
+    "meaning": "wealth, resources",
+    "level": "N3",
+    "examples": ["富", "富士山"]
+  },
+  {
+    "character": "復",
+    "onyomi": "ふく",
+    "kunyomi": "",
+    "meaning": "restore, return",
+    "level": "N3",
+    "examples": ["復習", "回復"]
+  },
+  {
+    "character": "費",
+    "onyomi": "ひ",
+    "kunyomi": "ついやす",
+    "meaning": "expense, cost",
+    "level": "N3",
+    "examples": ["費用", "消費"]
+  },
+  {
+    "character": "番",
+    "onyomi": "ばん",
+    "kunyomi": "",
+    "meaning": "number, watch",
+    "level": "N3",
+    "examples": ["番組", "番号"]
+  },
+  {
+    "character": "悲",
+    "onyomi": "ひ",
+    "kunyomi": "かい",
+    "meaning": "sad",
+    "level": "N3",
+    "examples": ["悲しい", "悲劇"]
+  },
+  {
+    "character": "筆",
+    "onyomi": "ひつ",
+    "kunyomi": "ふで",
+    "meaning": "brush, writing",
+    "level": "N3",
+    "examples": ["筆", "鉛筆"]
+  },
+  {
+    "character": "備",
+    "onyomi": "び",
+    "kunyomi": "そなえる",
+    "meaning": "prepare",
+    "level": "N3",
+    "examples": ["準備", "備える"]
+  },
+  {
+    "character": "貿",
+    "onyomi": "ぼう",
+    "kunyomi": "",
+    "meaning": "trade",
+    "level": "N3",
+    "examples": ["貿易", "貿易会社"]
+  },
+  {
+    "character": "無",
+    "onyomi": "む",
+    "kunyomi": "ない",
+    "meaning": "none, nothing",
+    "level": "N3",
+    "examples": ["無理", "無事"]
+  },
+  {
+    "character": "報",
+    "onyomi": "ほう",
+    "kunyomi": "むくいる",
+    "meaning": "report, news",
+    "level": "N3",
+    "examples": ["報告", "情報"]
+  },
+  {
+    "character": "満",
+    "onyomi": "まん",
+    "kunyomi": "みちる",
+    "meaning": "full, satisfied",
+    "level": "N3",
+    "examples": ["満足", "満員"]
+  },
+  {
+    "character": "量",
+    "onyomi": "りょう",
+    "kunyomi": "はかる",
+    "meaning": "quantity, measure",
+    "level": "N3",
+    "examples": ["量", "重量"]
+  },
+  {
+    "character": "遊",
+    "onyomi": "ゆう",
+    "kunyomi": "あそぶ",
+    "meaning": "play",
+    "level": "N3",
+    "examples": ["遊ぶ", "遊園地"]
+  },
+  {
+    "character": "落",
+    "onyomi": "らく",
+    "kunyomi": "おちる",
+    "meaning": "fall, drop",
+    "level": "N3",
+    "examples": ["落ちる", "落下"]
+  },
+  {
+    "character": "陽",
+    "onyomi": "よう",
+    "kunyomi": "",
+    "meaning": "sun, positive",
+    "level": "N3",
+    "examples": ["太陽", "陽気"]
+  },
+  {
+    "character": "葉",
+    "onyomi": "よう",
+    "kunyomi": "は",
+    "meaning": "leaf",
+    "level": "N3",
+    "examples": ["葉", "紅葉"]
+  },
+  {
+    "character": "税",
+    "onyomi": "ぜい",
+    "kunyomi": "",
+    "meaning": "tax",
+    "level": "N3",
+    "examples": ["税金", "消費税"]
+  },
+  {
+    "character": "路",
+    "onyomi": "ろ",
+    "kunyomi": "じ",
+    "meaning": "road",
+    "level": "N3",
+    "examples": ["道路", "通路"]
+  },
+  {
+    "character": "豊",
+    "onyomi": "ほう",
+    "kunyomi": "ゆたか",
+    "meaning": "abundant, rich",
+    "level": "N3",
+    "examples": ["豊か", "豊富"]
+  },
+  {
+    "character": "夢",
+    "onyomi": "む",
+    "kunyomi": "ゆめ",
+    "meaning": "dream",
+    "level": "N3",
+    "examples": ["夢", "夢中"]
+  },
+  {
+    "character": "農",
+    "onyomi": "のう",
+    "kunyomi": "",
+    "meaning": "agriculture",
+    "level": "N3",
+    "examples": ["農業", "農村"]
+  },
+  {
+    "character": "続",
+    "onyomi": "ぞく",
+    "kunyomi": "つづく",
+    "meaning": "continue",
+    "level": "N3",
+    "examples": ["続ける", "連続"]
+  },
+  {
+    "character": "損",
+    "onyomi": "そん",
+    "kunyomi": "そこなう",
+    "meaning": "loss, damage",
+    "level": "N3",
+    "examples": ["損", "損害"]
+  },
+  {
+    "character": "想",
+    "onyomi": "そう",
+    "kunyomi": "",
+    "meaning": "thought, idea",
+    "level": "N3",
+    "examples": ["想像", "感想"]
+  },
+  {
+    "character": "戦",
+    "onyomi": "せん",
+    "kunyomi": "たたかう",
+    "meaning": "war, battle",
+    "level": "N3",
+    "examples": ["戦争", "戦う"]
+  },
+  {
+    "character": "勢",
+    "onyomi": "せい",
+    "kunyomi": "いきおい",
+    "meaning": "force, power",
+    "level": "N3",
+    "examples": ["勢力", "勢い"]
+  },
+  {
+    "character": "数",
+    "onyomi": "すう",
+    "kunyomi": "かず",
+    "meaning": "number",
+    "level": "N3",
+    "examples": ["数", "数学"]
+  },
+  {
+    "character": "置",
+    "onyomi": "ち",
+    "kunyomi": "おく",
+    "meaning": "put, place",
+    "level": "N3",
+    "examples": ["置く", "位置"]
+  },
+  {
+    "character": "鉄",
+    "onyomi": "てつ",
+    "kunyomi": "",
+    "meaning": "iron",
+    "level": "N3",
+    "examples": ["鉄道", "地下鉄"]
+  },
+  {
+    "character": "感",
+    "onyomi": "かん",
+    "kunyomi": "",
+    "meaning": "feeling, sensation",
+    "level": "N3",
+    "examples": ["感動", "感情"]
+  },
+  {
+    "character": "解",
+    "onyomi": "かい",
+    "kunyomi": "とく",
+    "meaning": "solve, explanation",
+    "level": "N3",
+    "examples": ["理解", "解く"]
+  },
+  {
+    "character": "園",
+    "onyomi": "えん",
+    "kunyomi": "その",
+    "meaning": "garden",
+    "level": "N3",
+    "examples": ["公園", "園芸"]
+  },
+  {
+    "character": "愛",
+    "onyomi": "あい",
+    "kunyomi": "",
+    "meaning": "love",
+    "level": "N3",
+    "examples": ["愛", "愛情"]
+  },
+  {
+    "character": "塩",
+    "onyomi": "えん",
+    "kunyomi": "しお",
+    "meaning": "salt",
+    "level": "N3",
+    "examples": ["塩", "食塩"]
+  },
+  {
+    "character": "極",
+    "onyomi": "きょく",
+    "kunyomi": "きわめる",
+    "meaning": "extreme",
+    "level": "N3",
+    "examples": ["極める", "南極"]
+  },
+  {
+    "character": "禁",
+    "onyomi": "きん",
+    "kunyomi": "",
+    "meaning": "prohibit",
+    "level": "N3",
+    "examples": ["禁止", "禁煙"]
+  },
+  {
+    "character": "罪",
+    "onyomi": "ざい",
+    "kunyomi": "つみ",
+    "meaning": "crime",
+    "level": "N3",
+    "examples": ["罪", "犯罪"]
+  },
+  {
+    "character": "資",
+    "onyomi": "し",
+    "kunyomi": "",
+    "meaning": "resources, capital",
+    "level": "N3",
+    "examples": ["資金", "資源"]
+  },
+  {
+    "character": "準",
+    "onyomi": "じゅん",
+    "kunyomi": "",
+    "meaning": "standard, prepare",
+    "level": "N3",
+    "examples": ["準備", "基準"]
+  },
+  {
+    "character": "種",
+    "onyomi": "しゅ",
+    "kunyomi": "たね",
+    "meaning": "seed, kind",
+    "level": "N3",
+    "examples": ["種類", "種"]
+  },
+  {
+    "character": "雑",
+    "onyomi": "ざつ",
+    "kunyomi": "",
+    "meaning": "miscellaneous",
+    "level": "N3",
+    "examples": ["雑誌", "混雑"]
+  },
+  {
+    "character": "際",
+    "onyomi": "さい",
+    "kunyomi": "きわ",
+    "meaning": "occasion, edge",
+    "level": "N3",
+    "examples": ["国際", "際"]
+  },
+  {
+    "character": "算",
+    "onyomi": "さん",
+    "kunyomi": "",
+    "meaning": "calculate",
+    "level": "N3",
+    "examples": ["計算", "予算"]
+  },
+  {
+    "character": "察",
+    "onyomi": "さつ",
+    "kunyomi": "",
+    "meaning": "inspect, guess",
+    "level": "N3",
+    "examples": ["警察", "観察"]
+  },
+  {
+    "character": "構",
+    "onyomi": "こう",
+    "kunyomi": "かまえる",
+    "meaning": "construct, mind",
+    "level": "N3",
+    "examples": ["構造", "構える"]
+  },
+  {
+    "character": "関",
+    "onyomi": "かん",
+    "kunyomi": "せき",
+    "meaning": "connection, barrier",
+    "level": "N3",
+    "examples": ["関係", "関東"]
+  },
+  {
+    "character": "境",
+    "onyomi": "きょう",
+    "kunyomi": "さかい",
+    "meaning": "boundary, region",
+    "level": "N3",
+    "examples": ["境界", "国境"]
+  },
+  {
+    "character": "漁",
+    "onyomi": "ぎょ",
+    "kunyomi": "",
+    "meaning": "fishing",
+    "level": "N3",
+    "examples": ["漁業", "漁村"]
+  },
+  {
+    "character": "演",
+    "onyomi": "えん",
+    "kunyomi": "",
+    "meaning": "perform, act",
+    "level": "N3",
+    "examples": ["演技", "演説"]
+  },
+  {
+    "character": "慣",
+    "onyomi": "かん",
+    "kunyomi": "なれる",
+    "meaning": "get used to, accustomed",
+    "level": "N3",
+    "examples": ["慣れる", "習慣"]
+  },
+  {
+    "character": "管",
+    "onyomi": "かん",
+    "kunyomi": "",
+    "meaning": "pipe, control",
+    "level": "N3",
+    "examples": ["管理", "水管"]
+  },
+  {
+    "character": "銅",
+    "onyomi": "どう",
+    "kunyomi": "",
+    "meaning": "copper",
+    "level": "N3",
+    "examples": ["銅", "銅像"]
+  },
+  {
+    "character": "適",
+    "onyomi": "てき",
+    "kunyomi": "",
+    "meaning": "suitable",
+    "level": "N3",
+    "examples": ["適当", "適応"]
+  },
+  {
+    "character": "精",
+    "onyomi": "せい",
+    "kunyomi": "",
+    "meaning": "spirit, energy",
+    "level": "N3",
+    "examples": ["精神", "精密"]
+  },
+  {
+    "character": "製",
+    "onyomi": "せい",
+    "kunyomi": "",
+    "meaning": "manufacture",
+    "level": "N3",
+    "examples": ["製品", "製造"]
+  },
+  {
+    "character": "静",
+    "onyomi": "せい",
+    "kunyomi": "しずか",
+    "meaning": "quiet, calm",
+    "level": "N3",
+    "examples": ["静か", "冷静"]
+  },
+  {
+    "character": "像",
+    "onyomi": "ぞう",
+    "kunyomi": "",
+    "meaning": "image, statue",
+    "level": "N3",
+    "examples": ["画像", "像"]
+  },
+  {
+    "character": "増",
+    "onyomi": "ぞう",
+    "kunyomi": "ふえる",
+    "meaning": "increase",
+    "level": "N3",
+    "examples": ["増える", "増加"]
+  },
+  {
+    "character": "総",
+    "onyomi": "そう",
+    "kunyomi": "",
+    "meaning": "total, general",
+    "level": "N3",
+    "examples": ["総合", "総理"]
+  },
+  {
+    "character": "鼻",
+    "onyomi": "び",
+    "kunyomi": "はな",
+    "meaning": "nose",
+    "level": "N3",
+    "examples": ["鼻", "鼻水"]
+  },
+  {
+    "character": "複",
+    "onyomi": "ふく",
+    "kunyomi": "",
+    "meaning": "duplicate, complex",
+    "level": "N3",
+    "examples": ["複雑", "複数"]
+  },
+  {
+    "character": "鳴",
+    "onyomi": "めい",
+    "kunyomi": "なく",
+    "meaning": "sound, cry",
+    "level": "N3",
+    "examples": ["鳴る", "鳴き声"]
+  },
+  {
+    "character": "綿",
+    "onyomi": "めん",
+    "kunyomi": "わた",
+    "meaning": "cotton",
+    "level": "N3",
+    "examples": ["綿", "綿菓子"]
+  },
+  {
+    "character": "様",
+    "onyomi": "よう",
+    "kunyomi": "さま",
+    "meaning": "appearance, manner",
+    "level": "N3",
+    "examples": ["様子", "様式"]
+  },
+  {
+    "character": "領",
+    "onyomi": "りょう",
+    "kunyomi": "",
+    "meaning": "territory, domain",
+    "level": "N3",
+    "examples": ["領土", "領収"]
+  },
+  {
+    "character": "緑",
+    "onyomi": "りょく",
+    "kunyomi": "みどり",
+    "meaning": "green",
+    "level": "N3",
+    "examples": ["緑", "緑色"]
+  },
+  {
+    "character": "練",
+    "onyomi": "れん",
+    "kunyomi": "ねる",
+    "meaning": "practice, train",
+    "level": "N3",
+    "examples": ["練習", "熟練"]
+  },
+  {
+    "character": "歴",
+    "onyomi": "れき",
+    "kunyomi": "",
+    "meaning": "history",
+    "level": "N3",
+    "examples": ["歴史", "経歴"]
+  },
+  {
+    "character": "輪",
+    "onyomi": "りん",
+    "kunyomi": "わ",
+    "meaning": "ring, circle",
+    "level": "N3",
+    "examples": ["輪", "輪郭"]
+  },
+  {
+    "character": "編",
+    "onyomi": "へん",
+    "kunyomi": "あむ",
+    "meaning": "compile, weave",
+    "level": "N3",
+    "examples": ["編集", "編む"]
+  },
+  {
+    "character": "箱",
+    "onyomi": "はこ",
+    "kunyomi": "",
+    "meaning": "box",
+    "level": "N3",
+    "examples": ["箱", "箱庭"]
+  },
+  {
+    "character": "熱",
+    "onyomi": "ねつ",
+    "kunyomi": "あつい",
+    "meaning": "heat",
+    "level": "N3",
+    "examples": ["熱い", "熱心"]
+  },
+  {
+    "character": "選",
+    "onyomi": "せん",
+    "kunyomi": "えらぶ",
+    "meaning": "choose, select",
+    "level": "N3",
+    "examples": ["選ぶ", "選挙"]
+  },
+  {
+    "character": "線",
+    "onyomi": "せん",
+    "kunyomi": "",
+    "meaning": "line",
+    "level": "N3",
+    "examples": ["線", "線路"]
+  },
+  {
+    "character": "導",
+    "onyomi": "どう",
+    "kunyomi": "みちびく",
+    "meaning": "lead, guide",
+    "level": "N3",
+    "examples": ["導く", "指導"]
+  },
+  {
+    "character": "談",
+    "onyomi": "だん",
+    "kunyomi": "はなす",
+    "meaning": "discuss, talk",
+    "level": "N3",
+    "examples": ["談話", "対談"]
+  },
+  {
+    "character": "調",
+    "onyomi": "ちょう",
+    "kunyomi": "しらべる",
+    "meaning": "investigate, tune",
+    "level": "N3",
+    "examples": ["調査", "調整"]
+  },
+  {
+    "character": "横",
+    "onyomi": "おう",
+    "kunyomi": "よこ",
+    "meaning": "side, horizontal",
+    "level": "N3",
+    "examples": ["横", "横断"]
+  },
+  {
+    "character": "確",
+    "onyomi": "かく",
+    "kunyomi": "たしか",
+    "meaning": "certain, sure",
+    "level": "N3",
+    "examples": ["確か", "確認"]
+  },
+  {
+    "character": "課",
+    "onyomi": "か",
+    "kunyomi": "",
+    "meaning": "section, lesson",
+    "level": "N3",
+    "examples": ["課題", "授業課"]
+  },
+  {
+    "character": "器",
+    "onyomi": "き",
+    "kunyomi": "うつわ",
+    "meaning": "utensil, container",
+    "level": "N3",
+    "examples": ["器", "楽器"]
+  },
+  {
+    "character": "賛",
+    "onyomi": "さん",
+    "kunyomi": "さんぜん",
+    "meaning": "approve, praise",
+    "level": "N3",
+    "examples": ["賛成", "賛美"]
+  },
+  {
+    "character": "賞",
+    "onyomi": "しょう",
+    "kunyomi": "",
+    "meaning": "reward, prize",
+    "level": "N3",
+    "examples": ["賞", "受賞"]
+  },
+  {
+    "character": "機",
+    "onyomi": "き",
+    "kunyomi": "はた",
+    "meaning": "machine, mechanism",
+    "level": "N3",
+    "examples": ["機械", "機会"]
+  },
+  {
+    "character": "橋",
+    "onyomi": "きょう",
+    "kunyomi": "はし",
+    "meaning": "bridge",
+    "level": "N3",
+    "examples": ["橋", "橋梁"]
+  },
+  {
+    "character": "築",
+    "onyomi": "ちく",
+    "kunyomi": "きずく",
+    "meaning": "construct, build",
+    "level": "N3",
+    "examples": ["築く", "建築"]
+  },
+  {
+    "character": "積",
+    "onyomi": "せき",
+    "kunyomi": "つむ",
+    "meaning": "pile up, accumulate",
+    "level": "N3",
+    "examples": ["積む", "積極的"]
+  },
+  {
+    "character": "輸",
+    "onyomi": "ゆ",
+    "kunyomi": "",
+    "meaning": "transport, export",
+    "level": "N3",
+    "examples": ["輸送", "輸出"]
+  },
+  {
+    "character": "録",
+    "onyomi": "ろく",
+    "kunyomi": "しるす",
+    "meaning": "record",
+    "level": "N3",
+    "examples": ["記録", "録音"]
+  },
+  {
+    "character": "績",
+    "onyomi": "せき",
+    "kunyomi": "",
+    "meaning": "achievements",
+    "level": "N3",
+    "examples": ["業績", "成果"]
+  },
+  {
+    "character": "講",
+    "onyomi": "こう",
+    "kunyomi": "こうぎ",
+    "meaning": "lecture, explain",
+    "level": "N3",
+    "examples": ["講義", "講演"]
+  },
+  {
+    "character": "職",
+    "onyomi": "しょく",
+    "kunyomi": "しごと",
+    "meaning": "occupation, job",
+    "level": "N3",
+    "examples": ["職業", "職場"]
+  },
+  {
+    "character": "観",
+    "onyomi": "かん",
+    "kunyomi": "みる",
+    "meaning": "view, observe",
+    "level": "N3",
+    "examples": ["観察", "観光"]
+  },
+  {
+    "character": "額",
+    "onyomi": "がく",
+    "kunyomi": "ひたい",
+    "meaning": "amount, forehead",
+    "level": "N3",
+    "examples": ["額", "額面"]
+  },
+  {
+    "character": "類",
+    "onyomi": "るい",
+    "kunyomi": "",
+    "meaning": "type, category",
+    "level": "N3",
+    "examples": ["種類", "同類"]
+  },
+  {
+    "character": "願",
+    "onyomi": "がん",
+    "kunyomi": "ねがう",
+    "meaning": "wish, request",
+    "level": "N3",
+    "examples": ["願う", "願い"]
+  },
+  {
+    "character": "識",
+    "onyomi": "しき",
+    "kunyomi": "しる",
+    "meaning": "knowledge, wisdom",
+    "level": "N3",
+    "examples": ["知識", "認識"]
+  },
+  {
+    "character": "競",
+    "onyomi": "きょう",
+    "kunyomi": "きそい",
+    "meaning": "compete",
+    "level": "N3",
+    "examples": ["競争", "競技"]
+  },
+  {
+    "character": "議",
+    "onyomi": "ぎ",
+    "kunyomi": "はなす",
+    "meaning": "discuss, debate",
+    "level": "N3",
+    "examples": ["議論", "会議"]
+  }
+]
